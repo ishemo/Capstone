@@ -2,7 +2,13 @@ from langchain_openai import OpenAI
 from langchain.prompts import PromptTemplate
 
 import os
+from dotenv import load_dotenv
 
+# Load environment variables
+load_dotenv()
+
+# Get API key
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # Initialize the OpenAI model
 llm = OpenAI(temperature=0.7, api_key=OPENAI_API_KEY)
