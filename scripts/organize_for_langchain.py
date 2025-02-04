@@ -428,9 +428,19 @@ def create_merged_dataset(bracket_df, teamstats_by_year):
     """
     Merges bracket data with each team's stats for the same year.
     Applies team name mapping before merging.
-    Produces a single DataFrame that can be saved and used in LangChain.
+    Produces a single DataFrame for LangChain that now includes all
+    columns from the KenPom team stats CSV files. Each KenPom column
+    is prefixed with 'Team1_' or 'Team2_' for clarity.
+    
+    For example, if the KenPom data contains:
+      Rk,Team,Conf,W-L,NetRtg,ORtg,ORtg_RANK,DRtg,DRtg_RANK,AdjT,AdjT_RANK,
+      Luck,Luck_RANK,Strength of Schedule NetRtg,Strength of Schedule NetRtg_RANK,
+      Strength of Schedule ORtg,Strength of Schedule ORtg_RANK,
+      Strength of Schedule DRtg,Strength of Schedule DRtg_RANK,
+      NCSOS NetRtg,NCSOS NetRtg_RANK
+    then the merged dataset will have columns like:
+      Team1_Rk, Team1_Conf, Team1_W-L, Team1_NetRtg, ..., Team2_NCSOS NetRtg_RANK, etc.
     """
-    #print("[DEBUG] Beginning merge of bracket and team-stats data...")
     merged_rows = []
 
     if bracket_df.empty:
@@ -439,10 +449,9 @@ def create_merged_dataset(bracket_df, teamstats_by_year):
 
     for idx, row in bracket_df.iterrows():
         year = row.get('Year')
-        # Get original team names from the bracket file.
         orig_team1 = row.get('Team1')
         orig_team2 = row.get('Team2')
-        # Apply name mapping.
+        # Apply team name mapping.
         team1 = map_team_name(orig_team1)
         team2 = map_team_name(orig_team2)
         winner = row.get('Winner')
@@ -452,21 +461,14 @@ def create_merged_dataset(bracket_df, teamstats_by_year):
         seed1 = row.get('Seed1', None)
         seed2 = row.get('Seed2', None)
 
-        # Check if team stats exists for the given year.
-        if year in teamstats_by_year:
-            year_stats = teamstats_by_year[year]
-            t1_match = year_stats[year_stats["Team"] == team1]
-            if not t1_match.empty:
-                x = 1
-                #print(f"[DEBUG] KenPom team for mapped team '{team1}' is '{t1_match.iloc[0]['Team']}'.")
-            else:
-                print(f"[DEBUG] No KenPom team found for mapped team '{team1}'.")
-        else:
-            print(f"  [WARNING] No team-stats DataFrame for year {year} available. Unable to merge teams: "
-                  f"Team1='{team1}' (originally '{orig_team1}') and Team2='{team2}' (originally '{orig_team2}'). Skipping this row.")
+        # Check if team stats exist for the given year.
+        if year not in teamstats_by_year:
+            print(f"  [WARNING] No team-stats DataFrame for year {year} available. "
+                  f"Unable to merge teams: Team1='{team1}' (originally '{orig_team1}') and "
+                  f"Team2='{team2}' (originally '{orig_team2}'). Skipping this row.")
             continue
 
-        # Attempt to locate the stats for the mapped names.
+        year_stats = teamstats_by_year[year]
         t1_stats = year_stats[year_stats['Team'] == team1]
         t2_stats = year_stats[year_stats['Team'] == team2]
 
@@ -482,6 +484,12 @@ def create_merged_dataset(bracket_df, teamstats_by_year):
         t1_row = t1_stats.iloc[0].to_dict()
         t2_row = t2_stats.iloc[0].to_dict()
 
+        # Exclude the "Year" and "Team" columns (they are already provided by bracket_df)
+        team1_extra = {f"Team1_{col}": val 
+                       for col, val in t1_row.items() if col not in ['Year', 'Team']}
+        team2_extra = {f"Team2_{col}": val 
+                       for col, val in t2_row.items() if col not in ['Year', 'Team']}
+
         row_out = {
             'Year': year,
             'Round': game_round,
@@ -492,29 +500,14 @@ def create_merged_dataset(bracket_df, teamstats_by_year):
             'Seed2': seed2,
             'Score': score,
             'Winner': winner,
-
-            'Team1_Conf': t1_row.get('Conf', None),
-            'Team1_Wins': t1_row.get('Wins', None),
-            'Team1_Losses': t1_row.get('Losses', None),
-            'Team1_WinPct': t1_row.get('WinPct', None),
-            'Team1_NetRtg': t1_row.get('NetRtg', None),
-            'Team1_ORtg': t1_row.get('ORtg', None),
-            'Team1_DRtg': t1_row.get('DRtg', None),
-
-            'Team2_Conf': t2_row.get('Conf', None),
-            'Team2_Wins': t2_row.get('Wins', None),
-            'Team2_Losses': t2_row.get('Losses', None),
-            'Team2_WinPct': t2_row.get('WinPct', None),
-            'Team2_NetRtg': t2_row.get('NetRtg', None),
-            'Team2_ORtg': t2_row.get('ORtg', None),
-            'Team2_DRtg': t2_row.get('DRtg', None),
         }
 
+        # Merge in all KenPom stats for both teams.
+        row_out.update(team1_extra)
+        row_out.update(team2_extra)
         merged_rows.append(row_out)
-        #print(f"  [INFO] Successfully merged stats for Team1='{team1}' and Team2='{team2}' (Year={year}).")
 
     merged_df = pd.DataFrame(merged_rows)
-    #print(f"[INFO] Finished merging. Final merged DataFrame shape: {merged_df.shape}")
     return merged_df
 
 
