@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Baylor,Norfolk St.,85-49,First Round,East,1,16,Baylor
+North Carolina,Marquette,95-63,First Round,East,8,9,North Carolina
+St. Mary's,Indiana,82-53,First Round,East,5,12,St. Mary's 
+UCLA,Akron,57-53,First Round,East,4,13,Ucla
+Texas,Virginia Tech,81-73,First Round,East,6,11,Texas
+Purdue,Yale,78-56,First Round,East,3,14,Purdue
+Murray St.,San Francisco,92-87,First Round,East,7,10,Murray St.
+Kentucky,Saint Peter's,79-85,First Round,East,2,15,Saint Peter's
+Gonzaga,Georgia St.,93-72,First Round,West,1,16,Gonzaga
+Boise St.,Memphis,53-64,First Round,West,8,9,Memphis
+Uconn,New Mexico St.,63-70,First Round,West,5,12,New Mexico St.
+Arkansas,Vermont,75-71,First Round,West,4,13,Arkansas
+Alabama,Notre Dame,64-78,First Round,West,6,11,Notre Dame
+Texas Tech,Montana St.,97-62,First Round,West,3,14,Texas Tech
+Michigan St.,Davidson,74-73,First Round,West,7,10,Michigan St.
+Duke,Fullerton,78-61,First Round,West,2,15,Duke
+Arizona,Wright St.,87-70,First Round,South,1,16,Arizona
+Seton Hall,TCU,42-69,First Round,South,8,9,TCU
+Houston,UAB,82-68,First Round,South,5,12,Houston
+Illinois,Chattanooga,54-53,First Round,South,4,13,Illinois
+Colorado St.,Michigan,63-75,First Round,South,6,11,Michigan
+Tennesse,Longwood,88-56,First Round,South,3,14,Tennesse
+Ohio St.,Loyola Chicago,54-41,First Round,South,7,10,Ohio St.
+Villanova,Delaware,80-60,First Round,South,2,15,Villanova
+Kansas,Texas Southern,83-56,First Round,Midwest,1,16,Kansas
+San Diego St.,Creighton,69-72,First Round,Midwest,8,9,Creighton
+Iowa,Richmond,63-67,First Round,Midwest,5,12,Richmond
+Providence,South Dakota St.,66-57,First Round,Midwest,4,13,Providence
+LSU,Iowa St.,54-59,First Round,Midwest,6,11,Iowa St.
+Wisconsin,Colgate,67-60,First Round,Midwest,3,14,Wisconsin
+USC,Miami,66-68,First Round,Midwest,7,10,Miami
+Auburn,Jax St.,80-61,First Round,Midwest,2,15,Auburn
+Baylor,North Carolina,86-93,Second Round,East,1,8,North Carolina
+St. Mary's,UCLA,56-72,Second Round,East,5,4,UCLA
+Texas,Purdue,81-71,Second Round,East,6,3,Purdue
+Murray St.,Saint Peter's,60-70,Second Round,East,7,15,Saint Peter's
+Gonzaga,Memphis,82-78,Second Round,West,1,9,Gonzaga
+New Mexico St.,Arkansas,48-53,Second Round,West,12,4,Arkansas
+Notre Dame,Texas Tech,53-59,Second Round,West,11,3,Texas Tech
+Michigan St.,Duke,76-85,Second Round,West,7,2,Duke
+Arizona,TCU,85-80,Second Round,South,1,9,Arizona
+Houston,Illinois,68-53,Second Round,South,5,4,Houston
+Michigan,Tennesse,76-68,Second Round,South,11,3,Michigan
+Ohio St.,Villanova,61-71,Second Round,South,7,2,Villanova
+Kansas,Creighton,79-72,Second Round,Midwest,1,9,Kansas
+Richmonnd,Providence,51-79,Second Round,Midwest,12,4,Providence
+Iowa St.,Wisconsin,54-49,Second Round,Midwest,11,3,Iowa St.
+Miami,Auburn,79-61,Second Round,Midwest,10,2,Miami
+North Carolina,UCLA,73-66,Sweet 16,East,8,4,North Carolina
+Purdue,Saint Peter's,64-67,Sweet 16,East,3,15,Saint Peter's
+Gonzaga,Arkansas,68-74,Sweet 16,West,1,4,Arkansas
+Texas Tech,Duke,73-78,Sweet 16,West,3,2,Duke
+Arizona,Houston,60-72,Sweet 16,South,1,5,Houston
+Michigan,Villanova,55-63,Sweet 16,South,11,2,Villanova
+Kansas,Providence,66-61,Sweet 16,Midwest,1,4,Kansas
+Iowa St.,Miami,56-70,Sweet 16,Midwest,11,10,Miami
+North Carolina,Saint Peter's,69-49,Elite Eight,East,8,15,North Carolina
+Arkansas,Duke,69-78,Elite Eight,West,4,2,Duke
+Houston,Villanova,44-50,Elite Eight,South,5,2,Villanova
+Kansas,Miami,76-50,Elite Eight,Midwest,1,10,Kansas
+Duke,North Carolina,77-81,Final Four,National,2,8,North Carolina
+Villanova,Kansas,65-81,Final Four,National,2,1,Kansas
+North Carolina,Kansas,69-72,Championship,National,8,1,Kansas

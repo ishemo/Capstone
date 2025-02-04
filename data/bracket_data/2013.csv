@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Indiana,James Madison,83-62,First Round,East,1,16,Indiana
+NC State,Temple,72-76,First Round,East,8,9,Temple
+UNLV,California,61-64,First Round,East,5,12,California
+Syracuse,Montana,81-34,First Round,East,4,13,Syracuse
+Butler,Bucknell,68-56,First Round,East,6,11,Butler
+Marquette,Davidson,59-58,First Round,East,3,14,Marquette
+Illinois,Colorado,57-49,First Round,East,7,10,Illinois
+Miami,Pacific,78-49,First Round,East,2,15,Miami
+Gonzaga,Southern,64-58,First Round,West,1,16,Gonzaga
+Pitt,Wichita St.,55-73,First Round,West,8,9,Wichita St.
+Wisconsin,Ole Miss,46-57,First Round,West,5,12,Ole Miss
+Kansas St.,La Salle,61-63,First Round,West,4,13,La Salle
+Arizona,Belmont,81-64,First Round,West,6,11,Arizona
+New Mexico,Harvard,62-68,First Round,West,3,14,Harvard
+Notre Dame,Iowa St.,58-76,First Round,West,7,10,Iowa St.
+Ohio St.,Iona,95-70,First Round,West,2,15,Ohio St.
+Kansas,Western Kentucky,64-57,First Round,South,1,16,Kansas
+North Carolina,Villanova,78-71,First Round,South,8,9,North Carolina
+VCU,Akron,88-42,First Round,South,5,12,VCU
+Michigan,South Dakota St.,71-56,First Round,South,4,13,Michigan
+UCLA,Minnesota,63-83,First Round,South,6,11,Minnesota
+Florida,Northwestern St.,79-47,First Round,South,3,14,Florida
+San Diego St.,Oklahoma,70-55,First Round,South,7,10,San Diego St.
+Georgetown,FGCU,68-78,First Round,South,2,15,FGCU
+Louisville,NC A&T,79-48,First Round,Midwest,1,16,Louisville
+Colorado St.,Missouri,84-72,First Round,Midwest,8,9,Colorado St.
+Oklahoma St.,Oregon,55-68,First Round,Midwest,5,12,Oregon
+Saint Louis,New Mexico St.,64-44,First Round,Midwest,4,13,Saint Louis
+Memphis,Saint Mary's,54-52,First Round,Midwest,6,11,Memphis
+Michigan St.,Valparaiso,65-54,First Round,Midwest,3,14,Michigan St.
+Creighton,Cincinatti,67-63,First Round,Midwest,7,10,Creighton
+Duke,UAlbany,73-61,First Round,Midwest,2,15,Duke
+Indiana,Temple,58-52,Second Round,East,1,9,Indiana
+California,Syracuse,60-66,Second Round,East,12,4,Syracuse
+Butler,Marquette,72-74,Second Round,East,6,3,Marquette
+Illinois,Miami,59-63,Second Round,East,7,2,Miami
+Gonzaga,Wichita St.,70-76,Second Round,West,1,9,Wichita St.
+Ole Miss,La Salle,74-76,Second Round,West,12,13,La Salle
+Arizona,Harvard,74-51,Second Round,West,6,14,Arizona
+Iowa St.,Ohio St.,75-78,Second Round,West,10,2,Ohio St.
+Kansas,North Carolina,70-58,Second Round,South,1,8,Kansas
+VCU,Michigan,53-78,Second Round,South,5,4,Michigan
+Minnesota,Florida,64-78,Second Round,South,11,3,Florida
+San Diego St.,FGCU,71-81,Second Round,South,7,15,FGCU
+Louisville,Coloado St.,82-56,Second Round,Midwest,1,8,Louisville
+Oregon,Saint Louis,74-57,Second Round,Midwest,12,4,Oregon
+Memphis,Michigan St.,48-70,Second Round,Midwest,6,3,Michigan St.
+Creighton,Duke,50-66,Second Round,Midwest,7,2,Duke
+Indiana,Syracuse,50-61,Sweet 16,East,1,4,Syracuse
+Marquette,Miami,71-61,Sweet 16,East,3,2,Marquette
+Wichita St.,La Salle,72-58,Sweet 16,West,9,13,Wichita St.
+Arizona,Ohio St.,70-73,Sweet 16,West,6,2,Ohio St.
+Kansas,Michigan,85-87,Sweet 16,South,1,4,Michigan
+Florida,FGCU,62-50,Sweet 16,South,3,15,Florida
+Louisville,Oregon,77-69,Sweet 16,Midwest,1,12,Louisville
+Michigan St.,Duke,61-71,Sweet 16,Midwest,3,2,Duke
+Syracuse,Marquette,55-39,Elite Eight,East,4,3,Syracuse
+Wichita St.,Ohio St.,70-66,Elite Eight,West,9,2,Wichita St.
+Michigan,Florida,79-59,Elite Eight,South,4,3,Michigan
+Louisville,Duke,85-63,Elite Eight,Midwest,1,2,Louisville
+Louisville,Wichita St.,72-68,Final Four,National,1,9,Louisville
+Michigan,Syracuse,61-56,Final Four,National,4,4,Michigan
+Louisville,Michigan,82-76,Championship,National,1,4,Louisville

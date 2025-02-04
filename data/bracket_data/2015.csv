@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Villanova,Lafayette,93-52,First Round,East,1,16,Villanova
+NC State,LSU,66-65,First Round,East,8,9,NC State
+Northern Iowa,Wyoming,71-54,First Round,East,5,12,Northern Iowa
+Louisville,UC Irvine,57-55,First Round,East,4,13,Louisville
+Providence,Dayton,53-66,First Round,East,6,11,Dayton
+Oklahoma,Ualbany,69-60,First Round,East,3,14,Oklahoma
+Michigan St.,Georgia,70-63,First Round,East,7,10,Michigan St.
+Virginia,Belmont,79-67,First Round,East,2,15,Virginia
+Wisconsin,Costal Carolina,86-72,First Round,West,1,16,Wisconsin
+Oregon,Oklahoma St.,79-73,First Round,West,8,9,Oregon
+Arkansas,Wofford,56-53,First Round,West,5,12,Arkansas
+North Carolina,Harvard,67-65,First Round,West,4,13,North Carolina
+Xavier,Ole Miss,76-57,First Round,West,6,11,Xavier
+Baylor,Georgia St.,56-57,First Round,West,3,14,Georgia St.
+VCU,Ohio St.,72-75,First Round,West,7,10,Ohio St.
+Arizona,Texas Southern,93-72,First Round,West,2,15,Arizona
+Duke,Robert Morris,85-56,First Round,South,1,16,Duke
+San Diego St.,Saint John's,76-64,First Round,South,8,9,San Diego St.
+Utah,SF Austin,57-50,First Round,South,5,12,SF Austin
+Georgetown,East Washington,84-74,First Round,South,4,13,Georgetown
+SMU,UCLA,59-60,First Round,South,6,11,UCLA
+Iowa St.,UAB,59-60,First Round,South,3,14,UAB
+Iowa,Davidson,83-52,First Round,South,7,10,Iowa
+Gonzaga,North Dakota St.,86-76,First Round,South,2,15,Gonzaga
+Kentucky,Hampton,79-56,First Round,Midwest,1,16,Kentucky
+Cincinatti,Purdue,66-65,First Round,Midwest,8,9,Cincinatti
+West Virginia,Buffalo,68-62,First Round,Midwest,5,12,West Virginia
+Maryland,Valparaiso,65-62,First Round,Midwest,4,13,Maryland
+Butler,Texas Southern,56-48,First Round,Midwest,6,11,Butler
+Notre Dame,Northeastern,69-65,First Round,Midwest,3,14,Notre Dame
+Wichita St.,Indiana,81-76,First Round,Midwest,7,10,Wichita St.
+Kansas,New Mexico St.,75-56,First Round,Midwest,2,15,Kansas
+Villanova,NC State,68-71,Second Round,East,1,8,NC State
+Northern Iowa,Louisville,53-66,Second Round,East,5,4,Louisville
+Dayton,Oklahoma,66-72,Second Round,East,11,3,Oklahoma
+Michigan St.,Virginia,60-54,Second Round,East,7,2,Michigan St.
+Wisconsin,Oregon,72-65,Second Round,West,1,8,Wisconsin
+Arkansas,North Carolina,78-87,Second Round,West,5,4,North Carolina
+Xavier,Georgia St.,75-67,Second Round,West,6,14,Xavier
+Ohio St.,Arizona,58-73,Second Round,West,10,2,Arizona
+Duke,San Diego St.,68-49,Second Round,South,1,8,Duke
+Utah,Georgetown,75-64,Second Round,South,5,4,Utah
+UCLA,UAB,92-75,Second Round,South,11,14,UCLA
+Iowa,Gonzaga,68-87,Second Round,South,7,2,Gonzaga
+Kentucky,Cincinatti,64-51,Second Round,Midwest,1,8,Kentucky
+West Virginia,Maryland,69-59,Second Round,Midwest,5,4,West Virginia
+Butler,Notre Dame,64-67,Second Round,Midwest,6,3,Notre Dame
+Wichita St.,Kansas,78-65,Second Round,Midwest,7,2,Wichita St.
+NC State,Louisville,65-75,Sweet 16,East,8,4,Louisville
+Oklahoma,Michigan St.,58-62,Sweet 16,East,3,7,Michigan St.
+Wisconsin,North Carolina,79-72,Sweet 16,West,1,4,Wisconsin
+Xavier,Arizona,60-68,Sweet 16,West,6,2,Arizona
+Duke,Utah,63-57,Sweet 16,South,1,5,Duke
+UCLA,Gonzaga,62-74,Sweet 16,South,11,2,Gonzaga
+Kentucky,West Virginia,78-39,Sweet 16,Midwest,1,5,Kentucky
+Notre Dame,Wichita St.,81-70,Sweet 16,Midwest,3,7,Notre Dame
+Louisville,Michigan St.,70-76,Elite Eight,East,4,7,Michigan St.
+Wisconsin,Arizona,85-78,Elite Eight,West,1,2,Wisconsin
+Duke,Gonzaga,66-52,Elite Eight,South,1,2,Duke
+Kentucky,Notre Dame,68-66,Elite Eight,Midwest,1,3,Kentucky
+Kentucky,Wisconsin,64-71,Final Four,National,1,1,Wisconsin
+Michigan St.,Duke,61-81,Final Four,National,7,1,Duke
+Wisconsin,Duke,63-68,Championship,National,1,1,Duke

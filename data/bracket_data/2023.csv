@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Purdue,Fair Dickinson,58-63,First Round,East,1,16,Fair Dickinson
+Memphis,FAU,65-66,First Round,East,8,9,FAU
+Duke,Oral Roberts,74-51,First Round,East,5,12,Duke
+Tennesse,Louisiana,58-55,First Round,East,4,13,Tennesse
+Kentucky,Providence,61-53,First Round,East,6,11,Kentucky
+Kansas St.,Montana St.,77-65,First Round,East,3,14,Kansas St.
+Michigan St.,USC,72-62,First Round,East,7,10,Michigan St.
+Marquette,Vermont,78-61,First Round,East,2,15,Marquette
+Kansas,Howard,96-68,First Round,West,1,16,Kansas
+Arkansas,Illinois,73-63,First Round,West,8,9,Arkansas
+St. Mary's,VCU,63-51,First Round,West,5,12,St. Mary's
+Uconn,Iona,87-63,First Round,West,4,13,Uconn
+TCU,Arizona St.,72-70,First Round,West,6,11,TCU
+Gonzaga,Grand Canyon,82-70,First Round,West,3,14,Gonzaga
+Northwestern,Boise St.,75-67,First Round,West,7,10,Northwestern
+UCLA,UNC Asheville,86-53,First Round,West,2,15,UCLA
+Alabama,Texas A&M-CC,96-75,First Round,South,1,16,Alabama
+Maryland,West Virginia,67-65,First Round,South,8,9,Maryland
+San Diego St.,Charleston,63-57,First Round,South,5,12,Charleston
+Virginia,Furman,67-68,First Round,South,4,13,Furman
+Creighton,NC State,72-63,First Round,South,6,11,Creighton
+Baylor,Santa Barbara,74-56,First Round,South,3,14,Baylor
+Missouri,Utah St.,76-65,First Round,South,7,10,Missouri
+Arizona,Princeton,55-59,First Round,South,2,15,Princeton
+Houston,Northern Kentucky,63-52,First Round,Midwest,1,16,Houston
+Iowa,Auburn,75-83,First Round,Midwest,8,9,Auburn
+Miami,Drake,63-56,First Round,Midwest,5,12,Miami
+Indiana,Kent State,71-60,First Round,Midwest,4,13,Indiana
+Iowa St.,Pitt,41-59,First Round,Midwest,6,11,Pitt
+Xavier,Kennesaw St.,72-67,First Round,Midwest,3,14,Xavier
+Texas A&M,Penn St.,59-76,First Round,Midwest,7,10,Penn St.
+Texas,Colgate,81-61,First Round,Midwest,2,15,Texas
+Fair Dickinson,FAU,70-78,Second Round,East,16,9,FAU
+Duke,Tennesse,52-65,Second Round,East,5,4,Tennesse
+Kentucky,Kansas St.,69-75,Second Round,East,6,3,Kansas St.
+Michigan St.,Marquette,69-60,Second Round,East,7,2,Michigan St.
+Kansas,Arkansas,71-72,Second Round,West,1,8,Arkansas
+St. Mary's,Uconn,55-70,Second Round,West,5,4,UConn
+TCU,Gonzaga,81-84,Second Round,West,6,3,Gonzaga
+Northwestern,UCLA,63-68,Second Round,West,7,2,UCLA
+Alabama,Maryland,73-51,Second Round,South,1,8,Alabama
+San Diego St.,Furman,75-52,Second Round,South,5,13,San Diego St.
+Creighton,Baylor,85-76,Second Round,South,6,3,Creighton
+Missouri,Princeton,63-78,Second Round,South,7,15,Princeton
+Houston,Auburn,81-64,Second Round,Midwest,1,9,Houston
+Miami,Indiana,85-69,Second Round,Midwest,5,4,Miami
+Pitt,Xavier,73-84,Second Round,Midwest,11,3,Xavier
+Penn St.,Texas,66-71,Second Round,Midwest,10,2,Texas
+FAU,Tennesse,62-55,Sweet 16,East,9,4,FAU
+Kansas St.,Michigan St.,98-93,Sweet 16,East,3,7,Kansas St.
+Arkansas,UConn,65-88,Sweet 16,West,8,4,UConn
+Gonzaga,UCLA,79-76,Sweet 16,West,3,2,Gonzaga
+Alabama,San Diego St.,74-71,Sweet 16,South,1,5,San Diego St.
+Creighton,Princeton,86-75,Sweet 16,South,6,15,Creighton
+Houston,Miami,75-89,Sweet 16,Midwest,1,5,Miami
+Xavier,Texas,71-83,Sweet 16,Midwest,3,2,Texas
+FAU,Kansas St.,79-76,Elite Eight,East,9,3,FAU
+Uconn,Gonzaga,82-54,Elite Eight,West,4,3,UConn
+San Diego St.,Creighton,57-56,Elite Eight,South,5,6,San Diego St.
+Miami,Texas,88-81,Elite Eight,Midwest,5,2,Miami
+San Diego St.,FAU,72-71,Final Four,National,5,9,San Diego St.
+Miami,Uconn,59-72,Final Four,National,5,4,UConn
+San Diego St.,UConn,76-59,Championship,National,5,4,UConn

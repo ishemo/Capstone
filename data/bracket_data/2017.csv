@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Villanova,Mount Saint Mary's,76-56,First Round,East,1,16,Villanova
+Wisconsin,Virginia Tech,84-74,First Round,East,8,9,Wisconsin
+Virginia,UNC Wilmington,76-71,First Round,East,5,12,Virginia
+Florida,ETSU,80-65,First Round,East,4,13,Florida
+SMU,USC,65-66,First Round,East,6,11,USC
+Baylor,New Mexico St.,91-73,First Round,East,3,14,Baylor
+South Carolina,Marquette,93-73,First Round,East,7,10,South Carolina
+Duke,Troy,87-65,First Round,East,2,15,Duke
+Gonzaga,South Dakota St.,66-46,First Round,West,1,16,Gonzaga
+Northwestern,Vanderbilt,68-66,First Round,West,8,9,Northwestern
+Notre Dame,Princeton,60-58,First Round,West,5,12,Notre Dame
+West Virginia,Bucknell,86-80,First Round,West,4,13,West Virginia
+Maryland,Xavier,65-76,First Round,West,6,11,Xavier
+Florida St.,FGCU,86-80,First Round,West,3,14,Florida St.
+Saint Mary's,VCU,85-77,First Round,West,7,10,Saint Mary's
+Arizona,North Dakota,100-82,First Round,West,2,15,Arizona
+North Carolina,Texas Southern,103-64,First Round,South,1,16,North Carolina
+Arkansas,Seton Hall,77-71,First Round,South,8,9,Arkansas
+Minnesota,MTSU,72-81,First Round,South,5,12,MTSU
+Butler,Winthrop,76-64,First Round,South,4,13,Butler
+Cincinatti,Kansas St.,75-61,First Round,South,6,11,Cincinatti
+UCLA,Kent State,97-80,First Round,South,3,14,UCLA
+Dayton,Wichita St.,58-64,First Round,South,7,10,Wichita St
+Kentucky,Northern Kentucky,79-70,First Round,South,2,15,Kentucky
+Kansas,UC Davis,100-62,First Round,Midwest,1,16,Kansas
+Miami,Michigan St.,58-78,First Round,Midwest,8,9,Michigan St.
+Iowa St.,Nevada,84-73,First Round,Midwest,5,12,Iowa St.
+Purdue,Vermont,80-70,First Round,Midwest,4,13,Purdue
+Creighton,Rhode Island,72-84,First Round,Midwest,6,11,Rhode Island
+Oregon,Iona,93-77,First Round,Midwest,3,14,Oregon
+Michigan,Oklahoma St.,92-91,First Round,Midwest,7,10,Michigan
+Louisville,Jax St.,78-63,First Round,Midwest,2,15,Louisville
+Villanova,Wisconsin,62-65,Second Round,East,1,8,Wisconsin
+Virginia,Florida,39-65,Second Round,East,5,4,Florida
+USC,Baylor,78-82,Second Round,East,11,3,Baylor
+South Carolina,Duke,88-81,Second Round,East,7,2,South Carolina
+Gonzaga,Northwestern,79-73,Second Round,West,1,8,Gonzaga
+Notre Dame,West Virginia,71-83,Second Round,West,5,4,West Virginia
+Xavier,Florida St.,91-66,Second Round,West,11,3,Xavier
+Saint Mary's,Arizona,60-69,Second Round,West,7,2,Arizona
+North Carolina,Arkansas,72-65,Second Round,South,1,8,North Carolina
+MTSU,Butler,65-74,Second Round,South,12,4,Butler
+Cincinatti,UCLA,67-79,Second Round,South,6,3,UCLA
+Wichita St,Kentucky,62-65,Second Round,South,10,2,Kentucky
+Kansas,Michigan St.,90-70,Second Round,Midwest,1,9,Kansas
+Iowa St.,Purdue,76-80,Second Round,Midwest,5,4,Purdue
+Rhode Island,Oregon,72-75,Second Round,Midwest,11,3,Oregon
+Michigan,Louisville,73-69,Second Round,Midwest,7,2,Michigan
+Wisconsin,Florida,83-84,Sweet 16,East,8,4,Florida
+Baylor,South Carolina,50-70,Sweet 16,East,3,7,South Carolina
+Gonzaga,West Virginia,61-58,Sweet 16,West,1,4,Gonzaga
+Xavier,Arizona,73-71,Sweet 16,West,11,2,Xavier
+North Carolina,Butler,92-80,Sweet 16,South,1,4,North Carolina
+UCLA,Kentucky,75-86,Sweet 16,South,3,2,Kentucky
+Kansas,Purdue,98-66,Sweet 16,Midwest,1,4,Kansas
+Oregon,Michigan,69-68,Sweet 16,Midwest,3,7,Oregon
+Florida,South Carolina,70-77,Elite Eight,East,4,7,South Carolina
+Gonzaga,Xavier,83-59,Elite Eight,West,1,11,Gonzaga
+North Carolina,Kentucky,75-73,Elite Eight,South,1,2,North Carolina
+Kansas,Oregon,60-74,Elite Eight,Midwest,1,3,Oregon
+South Carolina,Gonzaga,73-77,Final Four,National,7,1,Gonzaga
+North Carolina,Oregon,77-76,Final Four,National,1,3,North Carolina
+Gonzaga,North Carolina,65-71,Championship,National,1,1,North Carolina

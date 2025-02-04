@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Virginia,Costal Carolina,70-59,First Round,East,1,16,Virginia
+Memphis,G Washington,71-66,First Round,East,8,9,Memphis
+Cincinatti,Harvard,57-61,First Round,East,5,12,Harvard
+Michigan St.,Delaware,93-78,First Round,East,4,13,Michigan St.
+North Carolina,Providence,79-77,First Round,East,6,11,North Carolina
+Iowa St.,NC Central,93-75,First Round,East,3,14,Iowa St.
+Uconn,Saint Joesph's,89-81,First Round,East,7,10,Uconn
+Villanova,Milwaukee,73-53,First Round,East,2,15,Villanova
+Arizona,Weber St. ,68-59,First Round,West,1,16,Arizona
+Gonzaga,Oklahoma St.,85-77,First Round,West,8,9,Gonzaga
+Oklahoma,North Dakota St.,75-80,First Round,West,5,12,North Dakota St.
+San Diego St.,New Mexico St.,73-69,First Round,West,4,13,San Diego St.
+Baylor,Nebraska,74-60,First Round,West,6,11,Baylor
+Creighton,Louisiana,76-66,First Round,West,3,14,Creighton
+Oregon,BYU,87-68,First Round,West,7,10,Oregon
+Wisconsin,American,75-35,First Round,West,2,15,Wisconsin
+Florida,UAlbany,67-55,First Round,South,1,16,Florida
+Colorado,Pitt,48-77,First Round,South,8,9,Pitt
+VCU,SF Austin,75-77,First Round,South,5,12,SF Austin
+UCLA,Tulsa,76-59,First Round,South,4,13,UCLA
+Ohio St.,Dayton,59-60,First Round,South,6,11,Dayton
+Syracuse,Western Michigan,77-53,First Round,South,3,14,Syracuse
+New Mexico,Stanford,53-58,First Round,South,7,10,Stanford
+Kansas,Eastern Kentucky,80-69,First Round,South,2,15,Kansas
+Wichita St.,Cal Poly,64-37,First Round,Midwest,1,16,Wichita St.
+Kentucky,Kansas St.,56-49,First Round,Midwest,8,9,Kentucky
+Saint Louis,NC State,83-80,First Round,Midwest,5,12,Saint Louis
+Louisville,Manhattan,71-64,First Round,Midwest,4,13,Louisville
+Umass,Tennesse,67-86,First Round,Midwest,6,11,Tennesse
+Duke,Mercer,71-78,First Round,Midwest,3,14,Mercer
+Texas,Arizona St.,87-85,First Round,Midwest,7,10,Texas
+Michigan,Wofford,57-40,First Round,Midwest,2,15,Michigan
+Virginia,Memphis,78-60,Second Round,East,1,8,Virginia
+Harvard,Michigan St.,73-80,Second Round,East,12,4,Michigan St.
+North Carolina,Iowa St.,83-85,Second Round,East,6,3,Iowa St.
+UConn,Villanova,77-65,Second Round,East,7,2,UConn
+Arizona,Gonzaga,84-61,Second Round,West,1,8,Arizona
+North Dakota St.,San Diego St.,44-63,Second Round,West,12,4,San Diego St.
+Baylor,Creighton,85-55,Second Round,West,6,3,Baylor
+Oregon,Wisconson,77-85,Second Round,West,7,2,Wisconsin
+Florida,Pitt,61-45,Second Round,South,1,9,Florida
+SF Austin,UCLA,60-77,Second Round,South,12,4,UCLA
+Dayton,Syracuse,55-53,Second Round,South,11,3,Dayton
+Stanford,Kansas,60-57,Second Round,South,10,2,Stanford
+Wichita St.,Kentucky,76-78,Second Round,Midwest,1,8,Kentucky
+Saint Louis,Louisville,51-66,Second Round,Midwest,5,4,Louisville
+Tennesse,Mercer,83-63,Second Round,Midwest,11,14,Tennesse
+Texas,Michigan,65-79,Second Round,Midwest,7,2,Michigan
+Virginia,Michigan St.,59-61,Sweet 16,East,1,4,Michigan St.
+Iowa St.,Uconn,76-81,Sweet 16,East,3,7,UConn
+Arizona,San Diego St.,70-64,Sweet 16,West,1,4,Arizona
+Baylor,Wisconson,52-69,Sweet 16,West,6,2,Wisconsin
+Florida,UCLA,79-68,Sweet 16,South,1,4,Florida
+Dayton,Stanford,82-72,Sweet 16,South,11,10,Dayton
+Kentucky,Louisville,74-69,Sweet 16,Midwest,8,4,Kentucky
+Tennesse,Michigan,71-73,Sweet 16,Midwest,11,2,Michigan
+Michigan St.,UConn,54-60,Elite Eight,East,4,7,UConn
+Arizona,Wisconson,63-64,Elite Eight,West,1,2,Wisconsin
+Florida,Dayton,62-52,Elite Eight,South,1,11,Florida
+Kentucky,Michigan,75-72,Elite Eight,Midwest,8,2,Kentucky
+Florida,UConn,53-63,Final Four,National,1,7,UConn
+Wisconsin,Kentucky,73-74,Final Four,National,2,8,Kentucky
+UConn,Kentucky,60-54,Championship,National,7,8,UConn

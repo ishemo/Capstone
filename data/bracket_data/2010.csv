@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Kansas,Lehigh,90-74,First Round,Midwest,1,16,Kansas
+UNLV,Northern Iowa,66-69,First Round,Midwest,8,9,Northern Iowa
+Michigan St.,New Mexico St.,70-67,First Round,Midwest,5,12,Michigan St.
+Maryland,Houston,89-77,First Round,Midwest,4,13,Maryland
+Tennesse,San Diego St.,62-59,First Round,Midwest,6,11,Tennesse
+Georgetown,Ohio,83-97,First Round,Midwest,3,14,Ohio
+Oklahoma St.,Georgia Tech,59-64,First Round,Midwest,7,10,Georgia Tech
+Ohio St.,Santa Barbara,68-51,First Round,Midwest,2,15,Ohio St.
+Syracuse,Vermont,79-56,First Round,West,1,16,Syracuse
+Gonzaga,Florida St.,67-60,First Round,West,8,9,Gonzaga
+Butler,UTEP,77-59,First Round,West,5,12,Butler
+Vanderbilt,Murray St.,65-66,First Round,West,4,13,Murray St
+Xavier,Minnesota,65-54,First Round,West,6,11,Xavier
+Pitt,Oakland,89-66,First Round,West,3,14,Pitt
+BYU,Florida,99-92,First Round,West,7,10,BYU
+Kansas St.,North Texas,82-62,First Round,West,2,15,Kansas St.
+Kentucky,ETSU,100-71,First Round,East,1,16,Kentucky
+Texas,Wake Forest,80-81,First Round,East,8,9,Wake Forest
+Temple,Cornell,65-78,First Round,East,5,12,Cornell
+Wisconsin,Wofford,53-49,First Round,East,4,13,Wisconsin
+Marquette,Washington,78-80,First Round,East,6,11,Washington
+New Mexico,Montana,62-57,First Round,East,3,14,New Mexico
+Clemson,Missouri,78-86,First Round,East,7,10,Missouri
+West Virginia,Morgan St.,77-50,First Round,East,2,15,West Virginia
+Duke,AR-Pine Bluff,73-44,First Round,South,1,16,Duke
+California,Louisville,77-62,First Round,South,8,9,California
+Texas A&M,Utah St.,69-53,First Round,South,5,12,Texas A&M
+Purdue,Sienna,72-64,First Round,South,4,13,Purdue
+Notre Dame,Old Dominion,50-51,First Round,South,6,11,Old Dominion
+Baylor,Sam Houston,68-59,First Round,South,3,14,Baylor
+Richmond,Saint Mary's,71-80,First Round,South,7,10,Saint Mary's
+Villanova,Robert Morris,73-70,First Round,South,2,15,Villanova
+Kansas,Northern Iowa,67-69,Second Round,Midwest,1,9,Northern Iowa
+Michigan St.,Maryland,85-83,Second Round,Midwest,5,4,Michigan St.
+Tennesse,Ohio,83-68,Second Round,Midwest,6,14,Tennesse
+Georgia Tech,Ohio St.,66-75,Second Round,Midwest,10,2,Ohio St.
+Syracuse,Gonzaga,87-65,Second Round,West,1,8,Syracuse
+Butler,Murray St,54-52,Second Round,West,5,13,Butler
+Xavier,Pitt,71-68,Second Round,West,6,3,Xavier
+BYU,Kansas St.,72-84,Second Round,West,7,2,Kansas St.
+Kentucky,Wake Forest,90-60,Second Round,East,1,9,Kentucky
+Cornell,Wisconsin,87-69,Second Round,East,12,4,Cornell
+Washington,New Mexico,82-64,Second Round,East,11,3,Washington
+Missouri,West Virginia,59-68,Second Round,East,10,2,West Virginia
+Duke,California,68-53,Second Round,South,1,8,Duke
+Texas A&M,Purdue,61-63,Second Round,South,5,4,Purdue
+Old Dominion,Baylor,68-76,Second Round,South,11,3,Baylor
+Saint Mary's,Villanova,75-68,Second Round,South,10,2,Saint Mary's
+Northern Iowa,Michigan St.,52-59,Sweet 16,Midwest,9,5,Michigan St.
+Tennesse,Ohio St.,76-73,Sweet 16,Midwest,6,2,Tennesse
+Syracuse,Butler,59-63,Sweet 16,West,1,5,Butler
+Xavier,Kansas St.,96-101,Sweet 16,West,6,2,Kansas St.
+Kentucky,Cornell,62-45,Sweet 16,East,1,12,Kentucky
+Washington,West Virginia,56-69,Sweet 16,East,11,2,West Virginia
+Duke,Purdue,70-57,Sweet 16,South,1,4,Duke
+Baylor,Saint Mary's,72-49,Sweet 16,South,3,10,Baylor
+Michigan St.,Tennesse,70-69,Elite Eight,Midwest,5,6,Michigan St.
+Butler,Kansas St.,63-56,Elite Eight,West,5,2,Butler
+Kentucky,West Virginia,66-73,Elite Eight,East,1,2,West Virginia
+Duke,Baylor,78-71,Elite Eight,South,1,3,Duke
+Michigan St.,Butler,50-52,Final Four,National,5,5,Butler
+West Virginia,Duke,57-78,Final Four,National,2,1,Duke
+Butler,Duke,59-61,Championship,National,5,1,Duke

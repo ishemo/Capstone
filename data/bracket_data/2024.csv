@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+UConn,Stetson,91-52,First Round,East,1,16,UConn
+Northwestern,FAU,77-65,First Round,East,8,9,Northwestern
+San Diego St.,UAB,69-65,First Round,East,5,12,San Diego St.
+Auburn,Yale,78-59,First Round,East,4,13,Auburn
+BYU,Duquesne,71-87,First Round,East,6,11,Duquesne
+Illinois,Morehead St.,85-69,First Round,East,3,14,Illinois
+Washington St.,Drake,66-73,First Round,East,7,10,Drake
+Iowa St.,South Dakota St.,82-65,First Round,East,2,15,Iowa St.
+North Carolina,Wagner,90-62,First Round,West,1,16,North Carolina
+Michigan St.,Mississippi St.,69-51,First Round,West,9,8,Michigan St.
+St. Mary's,Grand Canyon,68-67,First Round,West,5,12,St. Mary's
+Alabama,Charleston,109-96,First Round,West,4,13,Alabama
+Clemson,New Mexico,77-56,First Round,West,6,11,Clemson
+Baylor,Colgate,92-67,First Round,West,3,14,Baylor
+Dayton,Nevada,63-67,First Round,West,7,10,Nevada
+Arizona,Long Beach St.,85-65,First Round,West,2,15,Arizona
+Houston,Longwood,86-46,First Round,South,1,16,Houston
+Texas A&M,Nebraska,98-83,First Round,South,9,8,Texas A&M
+Wisconsin,James Madison,61-66,First Round,South,5,12,James Madison
+Duke,Vermont,64-47,First Round,South,4,13,Duke
+Texas Tech,NC State,67-73,First Round,South,6,11,NC State
+Kentucky,Oakland,85-76,First Round,South,3,14,Kentucky
+Florida,Colorado,77-88,First Round,South,7,10,Colorado
+Marquette,Western Kentucky,87-69,First Round,South,2,15,Marquette
+Purdue,Grambling St.,78-50,First Round,Midwest,1,16,Purdue
+Utah St.,TCU,65-88,First Round,Midwest,8,9,TCU
+Gonzaga,McNeese,86-65,First Round,Midwest,5,12,Gonzaga
+Kansas,Samford,93-89,First Round,Midwest,4,13,Kansas
+South Carolina,Oregon,71-87,First Round,Midwest,6,11,Oregon
+Creighton,Akron,77-60,First Round,Midwest,3,14,Creighton
+Texas,Colorado St.,56-85,First Round,Midwest,7,10,Colorado St.
+Tennessee,Saint Peter's,83-49,First Round,Midwest,2,15,Tennessee
+UConn,Northwestern,75-58,Second Round,East,1,9,UConn
+San Diego St.,Auburn,67-77,Second Round,East,5,4,Auburn
+Duquesne,Illinois,63-89,Second Round,East,11,3,Illinois
+Drake,Iowa St.,75-85,Second Round,East,10,2,Iowa St.
+North Carolina,Michigan St.,85-69,Second Round,West,1,9,North Carolina
+Grand Canyon,Alabama,45-72,Second Round,West,12,4,Alabama
+Clemson,Baylor,72-64,Second Round,West,6,3,Clemson
+Nevada,Arizona,59-83,Second Round,West,10,2,Arizona
+Houston,Texas A&M,72-56,Second Round,South,1,9,Houston
+James Madison,Duke,56-93,Second Round,South,12,4,Duke
+NC State,Kentucky,80-73,Second Round,South,11,3,NC State
+Colorado,Marquette,92-95,Second Round,South,10,2,Marquette
+Purdue,TCU,106-67,Second Round,Midwest,1,9,Purdue
+Gonzaga,Kansas,89-68,Second Round,Midwest,5,4,Gonzaga
+Oregon,Creighton,73-86,Second Round,Midwest,11,3,Creighton
+Colorado St.,Tennessee,85-82,Second Round,Midwest,10,2,Colorado St.
+UConn,Auburn,86-72,Sweet 16,East,1,4,UConn
+Illinois,Iowa St.,71-79,Sweet 16,East,3,2,Iowa St.
+North Carolina,Alabama,87-80,Sweet 16,West,1,4,North Carolina
+Clemson,Arizona,77-72,Sweet 16,West,6,2,Clemson
+Houston,Duke,54-75,Sweet 16,South,1,4,Duke
+NC State,Marquette,67-58,Sweet 16,South,11,2,NC State
+Purdue,Gonzaga,80-68,Sweet 16,Midwest,1,5,Purdue
+Creighton,Tennessee,89-88,Sweet 16,Midwest,3,2,Creighton
+UConn,Iowa St.,77-52,Elite Eight,East,1,2,UConn
+North Carolina,Clemson,72-81,Elite Eight,West,1,6,Clemson
+Duke,NC State,75-76,Elite Eight,South,4,11,NC State
+Purdue,Creighton,72-71,Elite Eight,Midwest,1,3,Purdue
+UConn,NC State,82-66,Final Four,National,1,11,UConn
+Purdue,Clemson,75-60,Final Four,National,1,6,Purdue
+UConn,Purdue,75-60,Championship,National,1,1,UConn

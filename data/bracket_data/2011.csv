@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Ohio St.,UTSA,75-46,First Round,East,1,16,Ohio St.
+George Mason,Villanova,61-57,First Round,East,8,9,George Mason
+West Virginia,Clemson,84-76,First Round,East,5,12,West Virginia
+Kentucky,Princeton,59-57,First Round,East,4,13,Kentucky
+Xavier,Marquette,55-66,First Round,East,6,11,Marquette
+Syracuse,Indiana St.,77-60,First Round,East,3,14,Syracuse
+Washington,Georgia,68-65,First Round,East,7,10,Washington
+North Carolina,Long Island,102-87,First Round,East,2,15,North Carolina
+Duke,Hampton,87-45,First Round,West,1,16,Duke
+Michigan,Tennesse,75-45,First Round,West,8,9,Michigan
+Arizona,Memphis,77-75,First Round,West,5,12,Arizona
+Texas,Oakland,85-81,First Round,West,4,13,Texas
+Cincinatti,Missouri,78-63,First Round,West,6,11,Cincinatti
+Uconn,Bucknell,81-52,First Round,West,3,14,Uconn
+Temple,Penn St.,66-64,First Round,West,7,10,Temple
+San Diego St.,North Colorado,68-50,First Round,West,2,15,San Diego St.
+Kansas,Boston U,72-53,First Round,Southwest,1,16,Kansas
+UNLV,Illinois,62-73,First Round,Southwest,8,9,Illinois
+Vanderbilt,Richmond,66-69,First Round,Southwest,5,12,Richmond
+Louisville,Morehead St.,61-62,First Round,Southwest,4,13,Morehead St.
+Georgetown,VCU,56-74,First Round,Southwest,6,11,VCU
+Purdue,Saint Peter's,65-43,First Round,Southwest,3,14,Purdue
+Texas A&M,Florida St.,50-57,First Round,Southwest,7,10,Florida St.
+Notre Dame,Akron,69-56,First Round,Southwest,2,15,Notre Dame
+Pitt,UNC Asheville,74-51,First Round,Southeast,1,16,Pitt
+Butler,Old Dominion,60-58,First Round,Southeast,8,9,Butler
+Kansas St.,Utah St.,73-68,First Round,Southeast,5,12,73-68
+Wisconsin,Belmont,72-58,First Round,Southeast,4,13,Wisconsin
+Saint John's,Gonzaga,71-86,First Round,Southeast,6,11,Gonzaga
+BYU,Wofford,74-66,First Round,Southeast,3,14,BYU
+UCLA,Michigan St.,78-76,First Round,Southeast,7,10,UCLA
+Florida,Santa Barbara,79-51,First Round,Southeast,2,15,Florida
+Ohio St.,George Mason,98-66,Second Round,East,1,8,Ohio St.
+West Virginia,Kentucky,63-71,Second Round,East,5,4,Kentucky
+Marquette,Syracuse,66-62,Second Round,East,11,3,Marquette
+Washington,North Carolina,83-86,Second Round,East,7,2,North Carolina
+Duke,Michigan,73-71,Second Round,West,1,8,Duke
+Arizona,Texas,70-69,Second Round,West,5,4,Arizona
+Cincinatti,Uconn,58-69,Second Round,West,6,3,UConn
+Temple,San Diego St.,64-71,Second Round,West,7,2,San Diego St.
+Kansas,Illinois,73-59,Second Round,Southwest,1,9,Kansas
+Richmond,Morehead St.,65-48,Second Round,Southwest,12,13,Richmond
+VCU,Purdue,94-76,Second Round,Southwest,11,3,VCU
+Florida St.,Notre Dame,71-57,Second Round,Southwest,10,2,Florida St.
+Pitt,Butler,70-71,Second Round,Southeast,1,8,Butler
+73-68,Wisconsin,65-70,Second Round,Southeast,5,4,Wisconsin
+Gonzaga,BYU,67-89,Second Round,Southeast,11,3,BYU
+UCLA,Florida,65-73,Second Round,Southeast,7,2,Florida
+Ohio St.,Kentucky,60-62,Sweet 16,East,1,4,Kentucky
+Marquette,North Carolina,63-81,Sweet 16,East,11,2,North Carolina
+Duke,Arizona,77-93,Sweet 16,West,1,5,Arizona
+UConn,San Diego St.,74-67,Sweet 16,West,3,2,UConn
+Kansas,Richmond,77-57,Sweet 16,Southwest,1,12,Kansas
+VCU,Florida St.,72-71,Sweet 16,Southwest,11,10,VCU
+Butler,Wisconsin,61-54,Sweet 16,Southeast,8,4,Butler
+BYU,Florida,74-83,Sweet 16,Southeast,3,2,Florida
+Kentucky,North Carolina,76-69,Elite Eight,East,4,2,Kentucky
+Arizona,UConn,63-65,Elite Eight,West,5,3,UConn
+Kansas,VCU,61-71,Elite Eight,Southwest,1,11,VCU
+Butler,Florida,74-71,Elite Eight,Southeast,8,2,Butler
+Kentucky,UConn,55-56,Final Four,National,4,3,UConn
+VCU,Butler,62-70,Final Four,National,11,8,Butler
+UConn,Butler,53-41,Championship,National,3,8,UConn
