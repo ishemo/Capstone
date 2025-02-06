@@ -1,0 +1,64 @@
+﻿Team1,Team2,Score,Round,Region,Seed1,Seed2,Winner
+Michigan,Texas Southern,82-66,First Round,East,1,16,Michigan
+LSU,St. Bonaventure,76-61,First Round,East,8,9,LSU
+Colorado,Georgetown,96-73,First Round,East,5,12,Colorado
+Florida St.,UNC Greensboro,64-54,First Round,East,4,13,Florida St.
+BYU,UCLA,62-73,First Round,East,6,11,UCLA
+Texas,Abilene Christian,52-53,First Round,East,3,14,Abilene Christian
+Uconn,Maryland,54-63,First Round,East,7,10,Maryland
+Alabama,Iona,68-55,First Round,East,2,15,Alabama
+Gonzaga,Norfolk St.,98-55,First Round,West,1,16,Gonzaga
+Oklahoma,Missouri,72-68,First Round,West,8,9,Oklahoma
+Creighton,Santa Barbara,63-62,First Round,West,5,12,Creighton
+Virginia,Ohio,58-62,First Round,West,4,13,Ohio
+USC,Drake,72-56,First Round,West,6,11,USC
+Kansas,E Washington,93-84,First Round,West,3,14,Kansas
+Oregon,VCU,N/A,First Round,West,7,10,Oregon
+Iowa,Grand Canyon,86-74,First Round,West,2,15,Iowa
+Baylor,Hartford,79-55,First Round,South,1,16,Baylor
+North Carolina,Wisconsin,62-85,First Round,South,8,9,Wisconsin
+Villanova,Winthrop,73-63,First Round,South,5,12,Villanova
+Purdue,North Texas,69-78,First Round,South,4,13,North Texas
+Texas Tech,Utah St.,65-53,First Round,South,6,11,Texas Tech
+Arkansas,Colgate,85-68,First Round,South,3,14,Arkansas
+Florida,Virginia Tech,75-70,First Round,South,7,10,Florida
+Ohio St.,Oral Roberts,72-75,First Round,South,2,15,Oral Roberts
+Illinois,Drexel,78-49,First Round,Midwest,1,16,Illinois
+Loyola Chicago,Georgia Tech,71-60,First Round,Midwest,8,9,Loyola Chicago
+Tennesse,Oregon St.,56-70,First Round,Midwest,5,12,Oregon St.
+Oklahoma St.,Liberty,69-60,First Round,Midwest,4,13,Oklahoma St.
+San Diego St.,Syracuse,62-78,First Round,Midwest,6,11,Syracuse
+West Virginia,Morehead St.,84-67,First Round,Midwest,3,14,West Virginia
+Clemson,Rutgers,56-60,First Round,Midwest,7,10,Rutgers
+Houston,Cleveland St.,87-56,First Round,Midwest,2,15,Houston
+Michigan,LSU,86-78,Second Round,East,1,8,Michigan
+Colorado,Florida St.,53-71,Second Round,East,5,4,Florida St.
+UCLA,Abilene Christian,67-47,Second Round,East,11,14,UCLA
+Maryland,Alabama,77-96,Second Round,East,10,2,Alabama
+Gonzaga,Oklahoma,87-71,Second Round,West,1,8,Gonzaga
+Creighton,Ohio,72-58,Second Round,West,5,13,Creighton
+USC,Kansas,85-51,Second Round,West,6,3,USC
+Oregon,Iowa,95-80,Second Round,West,7,2,Oregon
+Baylor,Wisconsin,76-63,Second Round,South,1,9,Baylor
+Villanova,North Texas,84-61,Second Round,South,5,13,Villanova
+Texas Tech,Arkansas,66-68,Second Round,South,6,3,Arkansas
+Florida,Oral Roberts,78-81,Second Round,South,7,15,Oral Roberts
+Illinois,Loyola Chicago,58-71,Second Round,Midwest,1,8,Loyola Chicago
+Oregon St.,Oklahoma St.,80-70,Second Round,Midwest,12,4,Oregon St.
+Syracuse,West Virginia,75-72,Second Round,Midwest,11,3,Syracuse
+Rutgers,Houston,60-63,Second Round,Midwest,10,2,Houston
+Michigan,Florida St.,76-58,Sweet 16,East,1,4,Michigan
+UCLA,Alabama,88-78,Sweet 16,East,11,2,UCLA
+Gonzaga,Creighton,83-65,Sweet 16,West,1,5,Gonzaga
+USC,Oregon,82-68,Sweet 16,West,6,7,USC
+Baylor,Villanova,62-51,Sweet 16,South,1,5,Baylor
+Arkansas,Oral Roberts,72-70,Sweet 16,South,3,15,Arkansas
+Loyola Chicago,Oregon St.,58-65,Sweet 16,Midwest,8,12,Oregon St.
+Syracuse,Houston,46-62,Sweet 16,Midwest,11,2,Houston
+Michigan,UCLA,51-49,Elite Eight,East,1,11,UCLA
+Gonzaga,USC,85-66,Elite Eight,West,1,6,Gonzaga
+Baylor,Arkansas,81-72,Elite Eight,South,1,3,Baylor
+Oregon St.,Houston,61-67,Elite Eight,Midwest,12,2,Houston
+UCLA,Gonzaga,90-93,Final Four,National,11,1,Gonzaga
+Baylor,Houston,78-59,Final Four,National,1,2,Baylor
+Gonzaga,Baylor,70-86,Championship,National,1,1,Baylor
