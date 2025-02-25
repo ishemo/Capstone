@@ -2,3 +2,5 @@ langchain-openai
 python-dotenv
 langchain
 pandas
+beautifulsoup4
+openpyxl
