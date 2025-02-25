@@ -1,11 +1,11 @@
 # predict_bracket.py
 
 import csv
-import main 
 import display_bracket
+from config import initialize_llm, create_prompt_template
 import os
 
-def run_game(team1, seed1, team2, seed2, round_name):
+def run_game(team1, seed1, team2, seed2, round_name, llm):
     """
     Formats the team names with their seed information,
     creates a prompt using main.py's prompt_template,
@@ -15,11 +15,10 @@ def run_game(team1, seed1, team2, seed2, round_name):
     formatted_team2 = f"{team2} (Seed {seed2})"
     
     # Create the prompt with seed info
-    #prompt = main.prompt_template.format(team1=formatted_team1, team2=formatted_team2)
+    prompt = create_prompt_template().format(team1=formatted_team1, team2=formatted_team2)
     
     # Invoke the model to get the prediction
-    #response = main.llm.invoke(prompt)
-    response = formatted_team1
+    response = llm.invoke(prompt)
     
     # Print the matchup and prediction for visibility
     print(f"[{round_name}] {formatted_team1} vs {formatted_team2} -> {response.strip()}")
@@ -28,7 +27,7 @@ def run_game(team1, seed1, team2, seed2, round_name):
     result_text = f"{formatted_team1} vs {formatted_team2} -> {response.strip()}"
     return result_text
 
-def simulate_bracket(file_path):
+def simulate_bracket(file_path, llm):
     """
     Reads the bracket file, processes each game, groups results by round,
     and writes out a separate text file for each round.
@@ -48,7 +47,7 @@ def simulate_bracket(file_path):
             seed2 = row["Seed2"].strip()
             
             # Get the result for the game
-            result_text = run_game(team1, seed1, team2, seed2, round_name)
+            result_text = run_game(team1, seed1, team2, seed2, round_name, llm)
             
             # Collect results for the round
             if round_name not in rounds_results:
@@ -63,6 +62,7 @@ def simulate_bracket(file_path):
             f.write("\n".join(results))
         print(f"Wrote results for {round_name} to {file_name}")
 
-if __name__ == "__main__":
-    simulate_bracket("code/bracket.txt")
+def predict_bracket():
+    llm = initialize_llm()
+    simulate_bracket("code/bracket.txt", llm)
     display_bracket.display_bracket()
