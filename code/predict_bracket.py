@@ -2,7 +2,8 @@
 
 import csv
 import main 
-import os  # Add this import at the top
+import display_bracket
+import os
 
 def run_game(team1, seed1, team2, seed2, round_name):
     """
@@ -64,3 +65,4 @@ def simulate_bracket(file_path):
 
 if __name__ == "__main__":
     simulate_bracket("code/bracket.txt")
+    display_bracket.display_bracket()
