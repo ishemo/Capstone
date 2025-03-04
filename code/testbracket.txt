@@ -22,10 +22,10 @@ First Round,Baylor,2,UC Davis,15
 First Round,Alabama,1,Texas A&M Corpus Christi,16
 First Round,Arkansas,8,West Virginia,9
 First Round,Xavier,5,Utah Valley,12
-First Round,Marquette,4,Grand Canyon,13
+First Round,Marquette,4,Oberlin College,13
 First Round,TCU,6,Arizona State,11
 First Round,Gonzaga,3,Grand Canyon,14
-First Round,Northwestern,7,Boise State,10
+First Round,Northwestern,7,Alaska State,10
 First Round,UCLA,2,UNC Asheville,15
 First Round,Houston,1,Kennesaw State,16
 First Round,Auburn,8,Iowa State,9
