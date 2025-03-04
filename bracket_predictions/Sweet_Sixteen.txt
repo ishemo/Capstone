@@ -1,8 +1,8 @@
-Houston, 85-70
-Houston, 80-60
-Indiana, 75-70
-As both teams are identical with the same stats and name, it is impossible to predict a winner and a score outcome. The input appears to have an error as both teams are presented as Indiana (B10).
-Kansas, 76-70
-Indiana, 76-70
-Kansas St., 75-68
-As both teams have provided the same statistics and are indeed the same team, Indiana, it is not possible to predict a winner or a score with the information given.
+Purdue (Seed 1) vs Connecticut (Seed 4) -> Purdue (Seed 1)
+Tennessee (Seed 3) vs Kentucky (Seed 7) -> Tennessee (Seed 3)
+Kansas (Seed 1) vs Duke (Seed 4) -> Kansas (Seed 1)
+Creighton (Seed 3) vs Baylor (Seed 2) -> Baylor (Seed 2)
+Alabama (Seed 1) vs Marquette (Seed 4) -> Alabama (Seed 1)
+Gonzaga (Seed 3) vs UCLA (Seed 2) -> Gonzaga (Seed 3)
+Auburn (Seed 8) vs Kansas State (Seed 4) -> Auburn (Seed 8)
+Mississippi (Seed 6) vs Virginia Tech (Seed 2) -> Mississippi (Seed 6)

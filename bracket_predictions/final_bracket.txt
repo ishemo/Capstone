@@ -1,3 +1,10 @@
+=== First Four ===
+Howard (Seed 16) vs Texas Southern (Seed 16) -> Texas Southern (Seed 16)
+Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Fairleigh Dickinson (Seed 16)
+Virginia (Seed 11) vs Providence (Seed 11) -> Providence (Seed 11)
+Mississippi State (Seed 11) vs USC (Seed 11) -> Mississippi State (Seed 11)
+
+=== First Round ===
 Purdue (Seed 1) vs Texas Southern (Seed 16) -> Purdue (Seed 1)
 Iowa (Seed 8) vs Memphis (Seed 9) -> Iowa (Seed 8)
 Indiana (Seed 5) vs Charleston (Seed 12) -> Indiana (Seed 5)
@@ -30,3 +37,20 @@ Mississippi (Seed 6) vs Mississippi State (Seed 11) -> Mississippi (Seed 6)
 Texas (Seed 3) vs Colgate (Seed 14) -> Texas (Seed 3)
 Seton Hall (Seed 7) vs Utah State (Seed 10) -> Seton Hall (Seed 7)
 Virginia Tech (Seed 2) vs Northern Kentucky (Seed 15) -> Virginia Tech (Seed 2)
+
+=== Second Round ===
+Purdue (Seed 1) vs Iowa (Seed 8) -> Purdue (Seed 1)
+Indiana (Seed 5) vs Connecticut (Seed 4) -> Connecticut (Seed 4)
+NC State (Seed 11) vs Tennessee (Seed 3) -> Tennessee (Seed 3)
+Kentucky (Seed 7) vs Arizona (Seed 2) -> Arizona (Seed 2)
+Kansas (Seed 1) vs Michigan State (Seed 8) -> Kansas (Seed 1)
+San Diego State (Seed 5) vs Duke (Seed 4) -> Duke (Seed 4)
+Texas A&M (Seed 6) vs Creighton (Seed 3) -> Texas A&M (Seed 6)
+Illinois (Seed 7) vs Baylor (Seed 2) -> Baylor (Seed 2)
+Alabama (Seed 1) vs Arkansas (Seed 8) -> Alabama (Seed 1)
+Xavier (Seed 5) vs Marquette (Seed 4) -> Marquette (Seed 4)
+Arizona State (Seed 11) vs Gonzaga (Seed 3) -> Gonzaga (Seed 3)
+Northwestern (Seed 7) vs UCLA (Seed 2) -> UCLA (Seed 2)
+Houston (Seed 1) vs Auburn (Seed 8) -> Auburn (Seed 8)
+St. Mary's (Seed 5) vs Kansas State (Seed 4) -> Kansas State (Seed 4)
+

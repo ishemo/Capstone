@@ -1,16 +1,14 @@
-High Point, 74-70
-Indiana St., 70-65
-Indiana, 74-70
-George Washington, 72-65
-Kansas, 75-68
-Indiana, 75-68
-Washington, 74-68
-The provided information is incorrect as it gives the same data for both teams, which is Indiana. Please provide the correct information for both teams in order to proceed.
-Indiana, 74-65
-Oregon, 75-68
-VCU, 72-68
-High Point, 74-68
-High Point, 75-68
-Indiana St., 68-63
-Indiana, 74-68
-It seems there's been an error as the details for both teams are identical and both are labeled as Indiana (B10). Could you please provide the correct information for the second team?
+Purdue (Seed 1) vs Iowa (Seed 8) -> Purdue (Seed 1)
+Indiana (Seed 5) vs Connecticut (Seed 4) -> Connecticut (Seed 4)
+NC State (Seed 11) vs Tennessee (Seed 3) -> Tennessee (Seed 3)
+Kentucky (Seed 7) vs Arizona (Seed 2) -> Arizona (Seed 2)
+Kansas (Seed 1) vs Michigan State (Seed 8) -> Kansas (Seed 1)
+San Diego State (Seed 5) vs Duke (Seed 4) -> Duke (Seed 4)
+Texas A&M (Seed 6) vs Creighton (Seed 3) -> Texas A&M (Seed 6)
+Illinois (Seed 7) vs Baylor (Seed 2) -> Baylor (Seed 2)
+Alabama (Seed 1) vs Arkansas (Seed 8) -> Alabama (Seed 1)
+Xavier (Seed 5) vs Marquette (Seed 4) -> Marquette (Seed 4)
+Arizona State (Seed 11) vs Gonzaga (Seed 3) -> Gonzaga (Seed 3)
+Northwestern (Seed 7) vs UCLA (Seed 2) -> UCLA (Seed 2)
+Houston (Seed 1) vs Auburn (Seed 8) -> Auburn (Seed 8)
+St. Mary's (Seed 5) vs Kansas State (Seed 4) -> Kansas State (Seed 4)

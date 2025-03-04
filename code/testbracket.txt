@@ -3,7 +3,7 @@ First Four,Howard,16,Texas Southern,16
 First Four,Grambling State,16,Fairleigh Dickinson,16
 First Four,Virginia,11,Providence,11
 First Four,Mississippi State,11,USC,11
-First Round,Purdue,1,Colgate,16
+First Round,Purdue,1,Winner of First Four Game 1,16
 First Round,Iowa,8,Memphis,9
 First Round,Indiana,5,Charleston,12
 First Round,Connecticut,4,Vermont,13
@@ -11,58 +11,58 @@ First Round,Miami,6,NC State,11
 First Round,Tennessee,3,UC Irvine,14
 First Round,Kentucky,7,Florida Atlantic,10
 First Round,Arizona,2,Drake,15
-First Round,Kansas,1,Montana State,16
+First Round,Kansas,1,Winner of First Four Game 2,16
 First Round,Michigan State,8,Missouri,9
 First Round,San Diego State,5,Oral Roberts,12
 First Round,Duke,4,Toledo,13
-First Round,Texas A&M,6,Winner of First Four Game 1,11
-First Round,Creighton,3,Winner of First Four Game 2,14
-First Round,Illinois,7,Winner of First Four Game 3,10
-First Round,Baylor,2,Winner of First Four Game 4,15
+First Round,Texas A&M,6,Winner of First Four Game 3,11
+First Round,Creighton,3,UC Santa Barbara,14
+First Round,Illinois,7,Boise State,10
+First Round,Baylor,2,UC Davis,15
 First Round,Alabama,1,Texas A&M Corpus Christi,16
 First Round,Arkansas,8,West Virginia,9
 First Round,Xavier,5,Utah Valley,12
 First Round,Marquette,4,Grand Canyon,13
-First Round,TCU,6,Winner of First Four Game 1,11
-First Round,Gonzaga,3,Winner of First Four Game 2,14
-First Round,Northwestern,7,Winner of First Four Game 3,10
-First Round,UCLA,2,Winner of First Four Game 4,15
+First Round,TCU,6,Arizona State,11
+First Round,Gonzaga,3,Grand Canyon,14
+First Round,Northwestern,7,Boise State,10
+First Round,UCLA,2,UNC Asheville,15
 First Round,Houston,1,Kennesaw State,16
 First Round,Auburn,8,Iowa State,9
 First Round,St. Mary's,5,VCU,12
 First Round,Kansas State,4,Furman,13
-First Round,Mississippi,6,Winner of First Four Game 1,11
-First Round,Texas,3,Winner of First Four Game 2,14
-First Round,Seton Hall,7,Winner of First Four Game 3,10
-First Round,Virginia Tech,2,Winner of First Four Game 4,15
-Second Round,Winner of First Round Game 1,1,Winner of First Round Game 2,16
-Second Round,Winner of First Round Game 3,8,Winner of First Round Game 4,9
-Second Round,Winner of First Round Game 5,5,Winner of First Round Game 6,12
-Second Round,Winner of First Round Game 7,4,Winner of First Round Game 8,13
-Second Round,Winner of First Round Game 9,6,Winner of First Round Game 10,11
-Second Round,Winner of First Round Game 11,3,Winner of First Round Game 12,14
-Second Round,Winner of First Round Game 13,7,Winner of First Round Game 14,10
-Second Round,Winner of First Round Game 15,2,Winner of First Round Game 16,15
-Second Round,Winner of First Round Game 17,1,Winner of First Round Game 18,16
-Second Round,Winner of First Round Game 19,8,Winner of First Round Game 20,9
-Second Round,Winner of First Round Game 21,5,Winner of First Round Game 22,12
-Second Round,Winner of First Round Game 23,4,Winner of First Round Game 24,13
-Second Round,Winner of First Round Game 25,6,Winner of First Round Game 26,11
-Second Round,Winner of First Round Game 27,3,Winner of First Round Game 28,14
-Second Round,Winner of First Round Game 29,7,Winner of First Round Game 30,10
-Second Round,Winner of First Round Game 31,2,Winner of First Round Game 32,15
-Sweet Sixteen,Winner of Second Round Game 1,1,Winner of Second Round Game 2,16
-Sweet Sixteen,Winner of Second Round Game 3,8,Winner of Second Round Game 4,9
-Sweet Sixteen,Winner of Second Round Game 5,5,Winner of Second Round Game 6,12
-Sweet Sixteen,Winner of Second Round Game 7,4,Winner of Second Round Game 8,13
-Sweet Sixteen,Winner of Second Round Game 9,6,Winner of Second Round Game 10,11
-Sweet Sixteen,Winner of Second Round Game 11,3,Winner of Second Round Game 12,14
-Sweet Sixteen,Winner of Second Round Game 13,7,Winner of Second Round Game 14,10
-Sweet Sixteen,Winner of Second Round Game 15,2,Winner of Second Round Game 16,15
-Elite Eight,Winner of Sweet Sixteen Game 1,1,Winner of Sweet Sixteen Game 2,16
-Elite Eight,Winner of Sweet Sixteen Game 3,8,Winner of Sweet Sixteen Game 4,9
-Elite Eight,Winner of Sweet Sixteen Game 5,5,Winner of Sweet Sixteen Game 6,12
-Elite Eight,Winner of Sweet Sixteen Game 7,4,Winner of Sweet Sixteen Game 8,13
-Final Four,Winner of Elite Eight Game 1,1,Winner of Elite Eight Game 2,16
-Final Four,Winner of Elite Eight Game 3,8,Winner of Elite Eight Game 4,9
-Championship,Winner of Final Four Game 1,1,Winner of Final Four Game 2,16
+First Round,Mississippi,6,Winner of First Four Game 4,11
+First Round,Texas,3,Colgate,14
+First Round,Seton Hall,7,Utah State,10
+First Round,Virginia Tech,2,Northern Kentucky,15
+Second Round,Winner of First Round Game 1,1,Winner of First Round Game 2,8
+Second Round,Winner of First Round Game 3,5,Winner of First Round Game 4,4
+Second Round,Winner of First Round Game 5,6,Winner of First Round Game 6,3
+Second Round,Winner of First Round Game 7,7,Winner of First Round Game 8,2
+Second Round,Winner of First Round Game 9,1,Winner of First Round Game 10,8
+Second Round,Winner of First Round Game 11,5,Winner of First Round Game 12,4
+Second Round,Winner of First Round Game 13,6,Winner of First Round Game 14,3
+Second Round,Winner of First Round Game 15,7,Winner of First Round Game 16,2
+Second Round,Winner of First Round Game 17,1,Winner of First Round Game 18,8
+Second Round,Winner of First Round Game 19,5,Winner of First Round Game 20,4
+Second Round,Winner of First Round Game 21,6,Winner of First Round Game 22,3
+Second Round,Winner of First Round Game 23,7,Winner of First Round Game 24,2
+Second Round,Winner of First Round Game 25,1,Winner of First Round Game 26,8
+Second Round,Winner of First Round Game 27,5,Winner of First Round Game 28,4
+Second Round,Winner of First Round Game 29,6,Winner of First Round Game 30,3
+Second Round,Winner of First Round Game 31,7,Winner of First Round Game 32,2
+Sweet Sixteen,Winner of Second Round Game 1,1,Winner of Second Round Game 2,4
+Sweet Sixteen,Winner of Second Round Game 3,6,Winner of Second Round Game 4,2
+Sweet Sixteen,Winner of Second Round Game 5,1,Winner of Second Round Game 6,4
+Sweet Sixteen,Winner of Second Round Game 7,6,Winner of Second Round Game 8,2
+Sweet Sixteen,Winner of Second Round Game 9,1,Winner of Second Round Game 10,4
+Sweet Sixteen,Winner of Second Round Game 11,6,Winner of Second Round Game 12,2
+Sweet Sixteen,Winner of Second Round Game 13,1,Winner of Second Round Game 14,4
+Sweet Sixteen,Winner of Second Round Game 15,6,Winner of Second Round Game 16,2
+Elite Eight,Winner of Sweet Sixteen Game 1,1,Winner of Sweet Sixteen Game 2,2
+Elite Eight,Winner of Sweet Sixteen Game 3,1,Winner of Sweet Sixteen Game 4,2
+Elite Eight,Winner of Sweet Sixteen Game 5,1,Winner of Sweet Sixteen Game 6,2
+Elite Eight,Winner of Sweet Sixteen Game 7,1,Winner of Sweet Sixteen Game 8,2
+Final Four,Winner of Elite Eight Game 1,1,Winner of Elite Eight Game 2,1
+Final Four,Winner of Elite Eight Game 3,1,Winner of Elite Eight Game 4,1
+Championship,Winner of Final Four Game 1,1,Winner of Final Four Game 2,1
