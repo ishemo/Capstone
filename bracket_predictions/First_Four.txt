@@ -1,4 +1,4 @@
-Howard (Seed 16) vs Texas Southern (Seed 16) -> Howard (Seed 16)
-Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Grambling State (Seed 16)
+Howard (Seed 16) vs Texas Southern (Seed 16) -> Texas Southern (Seed 16)
+Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Fairleigh Dickinson (Seed 16)
 Virginia (Seed 11) vs Providence (Seed 11) -> Providence (Seed 11)
 Mississippi State (Seed 11) vs USC (Seed 11) -> Mississippi State (Seed 11)
