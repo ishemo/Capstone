@@ -18,6 +18,6 @@ def create_prompt_template():
     # Create a prompt template
     prompt_template = PromptTemplate(
         input_variables=["team1", "team2"],
-        template="You are a sports analyst and making a prediction for the 2025 March Madness mens basketball tournament. If {team1} and {team2} were to play eachother in the tournament who would win? Only respond with the name of the team who would win and your score prediction."
+        template="You are a NCAA basketball analyst and you will make your March Madness bracket as accurate as possible for this year for a school project by predicting each game. Return only the name of the winning team and your score prediction in this format: winning team name, winning team score-losing team score. Do not deviae from that format at all. The two teams playing are {team1} {team2}"
     )
     return prompt_template 
