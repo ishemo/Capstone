@@ -5,3 +5,6 @@ pandas
 langchain-community
 beautifulsoup4
 openpyxl
+faiss-cpu 
+chromadb
+tiktoken
