@@ -1,4 +1,4 @@
-Purdue (Seed 1) vs Tennessee (Seed 3) -> Tennessee (Seed 3)
-Kansas (Seed 1) vs Baylor (Seed 2) -> Kansas (Seed 1)
+Purdue (Seed 1) vs Tennessee (Seed 3) -> Purdue (Seed 1)
+Duke (Seed 4) vs Baylor (Seed 2) -> Duke (Seed 4)
 Alabama (Seed 1) vs Gonzaga (Seed 3) -> Alabama (Seed 1)
-Auburn (Seed 8) vs Mississippi (Seed 6) -> Auburn (Seed 8)
+Auburn (Seed 8) vs Virginia Tech (Seed 2) -> Virginia Tech (Seed 2)

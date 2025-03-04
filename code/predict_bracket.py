@@ -59,9 +59,6 @@ def run_game(team1, seed1, team2, seed2, round_name, llm, vector_db):
     else:
         # If the model doesn't clearly indicate a winner, default to the higher seed (lower number)
         print(f"Warning: Couldn't determine winner from response. Defaulting to higher seed.")
-        print("-------------")
-        print(response)
-        print("-------------")
         if int(seed1) < int(seed2):
             winner, winner_seed = team1, seed1
         else:
@@ -80,15 +77,14 @@ def simulate_bracket(file_path, llm):
     os.makedirs("bracket_predictions", exist_ok=True)
     
     # Set up vector db for context
-    file_path_data = "data/final_data/current_team_data.txt"
     try:
+        file_path_data = "data/final_data/current_team_data.txt"
         loader = TextLoader(file_path_data)
         docs = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         chunks = text_splitter.split_documents(docs)
         embeddings = OpenAIEmbeddings()
         vector_db = FAISS.from_documents(chunks, embeddings)
-        vector_db.save_local("team_info_db")
     except Exception as e:
         print(f"Error loading team data: {e}. Will continue without team context.")
         # Create a dummy vector DB that returns empty results
@@ -105,15 +101,13 @@ def simulate_bracket(file_path, llm):
     
     with open(file_path, newline="") as csvfile:
         reader = csv.DictReader(csvfile)
-        for idx, row in enumerate(reader, 1):
+        for row in reader:
             round_name = row["Round"].strip()
             if round_name in games_by_round:
-                # Add a unique game ID to each game
-                row["game_id"] = f"{round_name} Game {idx}"
                 games_by_round[round_name].append(row)
     
-    # Dictionary to map placeholder references to actual winners
-    winners_map = {}
+    # Dictionary to store results in a format that exactly matches the input file references
+    winner_lookup = {}
     rounds_results = {round_name: [] for round_name in round_order}
     
     # Process each round in order
@@ -126,58 +120,72 @@ def simulate_bracket(file_path, llm):
             seed1 = game["Seed1"].strip()
             team2 = game["Team2"].strip()
             seed2 = game["Seed2"].strip()
-            game_id = game["game_id"]
+            
+            # Create a unique game key in the exact format referenced in the CSV
+            game_key = f"{round_name} Game {game_idx}"
             
             # Resolve any "Winner of" placeholder for team1
             if "Winner of" in team1:
-                placeholder_key = team1
-                if placeholder_key in winners_map:
-                    team1, seed1 = winners_map[placeholder_key]
+                prev_game_key = team1
+                if prev_game_key in winner_lookup:
+                    team1, seed1 = winner_lookup[prev_game_key]
                 else:
-                    print(f"Warning: {team1} not found in winners_map")
-                    continue  # Skip this game if we can't resolve the team
+                    print(f"Warning: {team1} not found in winner_lookup")
+                    continue  # Skip this game
             
             # Resolve any "Winner of" placeholder for team2
             if "Winner of" in team2:
-                placeholder_key = team2
-                if placeholder_key in winners_map:
-                    team2, seed2 = winners_map[placeholder_key]
+                prev_game_key = team2
+                if prev_game_key in winner_lookup:
+                    team2, seed2 = winner_lookup[prev_game_key]
                 else:
-                    print(f"Warning: {team2} not found in winners_map")
-                    continue  # Skip this game if we can't resolve the team
+                    print(f"Warning: {team2} not found in winner_lookup")
+                    continue  # Skip this game
             
-            # Process the game
+            # Run the game
             result_text, winner, winner_seed = run_game(team1, seed1, team2, seed2, round_name, llm, vector_db)
             
-            # Store the result in rounds_results
-            rounds_results[round_name].append(result_text)
-            
-            # Create mappings for next round
-            if round_name != "Championship":
-                winners_map[f"Winner of {game_id}"] = (winner, winner_seed)
+            # Store the result
+            winner_lookup[f"Winner of {game_key}"] = (winner, winner_seed)
+            rounds_results[round_name].append((game_idx, result_text))
     
     # Write a separate file for each round with its results
     for round_name, results in rounds_results.items():
         if results:  # Only write if there are results
+            sorted_results = sorted(results, key=lambda x: x[0])
+            results_text = [result for _, result in sorted_results]
+            
             file_name = f"bracket_predictions/{round_name.replace(' ', '_')}.txt"
             with open(file_name, "w") as f:
-                f.write("\n".join(results))
+                f.write("\n".join(results_text))
             print(f"Wrote results for {round_name} to {file_name}")
     
     # Create a final bracket result file
     with open("bracket_predictions/final_bracket.txt", "w") as f:
+        f.write("============================================================\n")
+        f.write("                 FINAL BRACKET PREDICTIONS                  \n")
+        f.write("============================================================\n\n")
+        
         for round_name in round_order:
             if rounds_results[round_name]:
-                f.write(f"=== {round_name} ===\n")
-                f.write("\n".join(rounds_results[round_name]))
-                f.write("\n\n")
+                f.write(f"{round_name.center(60)}\n")
+                f.write("-" * 60 + "\n")
+                
+                sorted_results = sorted(rounds_results[round_name], key=lambda x: x[0])
+                for game_idx, result in sorted_results:
+                    f.write(f"Game {game_idx}: {result}\n")
+                
+                f.write("-" * 60 + "\n\n")
         
         # Write the overall champion
         if "Championship" in rounds_results and rounds_results["Championship"]:
-            championship_result = rounds_results["Championship"][0]
-            # Extract the winner from the result text
-            winner_part = championship_result.split("->")[1].strip()
-            f.write(f"CHAMPION: {winner_part}\n")
+            f.write("============================================================\n")
+            f.write("                          CHAMPION                          \n")
+            f.write("============================================================\n")
+            championship_result = rounds_results["Championship"][0][1]
+            champion = championship_result.split("->")[1].strip()
+            f.write(f"                        {champion}                         \n")
+            f.write("============================================================\n")
 
 def predict_bracket():
     llm = initialize_llm()

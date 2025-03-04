@@ -1,56 +1,104 @@
-=== First Four ===
-Howard (Seed 16) vs Texas Southern (Seed 16) -> Howard (Seed 16)
-Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Grambling State (Seed 16)
-Virginia (Seed 11) vs Providence (Seed 11) -> Providence (Seed 11)
-Mississippi State (Seed 11) vs USC (Seed 11) -> Mississippi State (Seed 11)
+============================================================
+                 FINAL BRACKET PREDICTIONS                  
+============================================================
 
-=== First Round ===
-Purdue (Seed 1) vs Howard (Seed 16) -> Purdue (Seed 1)
-Iowa (Seed 8) vs Memphis (Seed 9) -> Memphis (Seed 9)
-Indiana (Seed 5) vs Charleston (Seed 12) -> Indiana (Seed 5)
-Connecticut (Seed 4) vs Vermont (Seed 13) -> Connecticut (Seed 4)
-Miami (Seed 6) vs NC State (Seed 11) -> NC State (Seed 11)
-Tennessee (Seed 3) vs UC Irvine (Seed 14) -> Tennessee (Seed 3)
-Kentucky (Seed 7) vs Florida Atlantic (Seed 10) -> Kentucky (Seed 7)
-Arizona (Seed 2) vs Drake (Seed 15) -> Arizona (Seed 2)
-Kansas (Seed 1) vs Grambling State (Seed 16) -> Kansas (Seed 1)
-Michigan State (Seed 8) vs Missouri (Seed 9) -> Missouri (Seed 9)
-San Diego State (Seed 5) vs Oral Roberts (Seed 12) -> San Diego State (Seed 5)
-Duke (Seed 4) vs Toledo (Seed 13) -> Duke (Seed 4)
-Texas A&M (Seed 6) vs Providence (Seed 11) -> Texas A&M (Seed 6)
-Creighton (Seed 3) vs UC Santa Barbara (Seed 14) -> Creighton (Seed 3)
-Illinois (Seed 7) vs Boise State (Seed 10) -> Illinois (Seed 7)
-Baylor (Seed 2) vs UC Davis (Seed 15) -> Baylor (Seed 2)
-Alabama (Seed 1) vs Texas A&M Corpus Christi (Seed 16) -> Alabama (Seed 1)
-Arkansas (Seed 8) vs West Virginia (Seed 9) -> Arkansas (Seed 8)
-Xavier (Seed 5) vs Utah Valley (Seed 12) -> Xavier (Seed 5)
-Marquette (Seed 4) vs Oberlin College (Seed 13) -> Marquette (Seed 4)
-TCU (Seed 6) vs Arizona State (Seed 11) -> TCU (Seed 6)
-Gonzaga (Seed 3) vs Grand Canyon (Seed 14) -> Gonzaga (Seed 3)
-Northwestern (Seed 7) vs Alaska State (Seed 10) -> Northwestern (Seed 7)
-UCLA (Seed 2) vs UNC Asheville (Seed 15) -> UCLA (Seed 2)
-Houston (Seed 1) vs Kennesaw State (Seed 16) -> Houston (Seed 1)
-Auburn (Seed 8) vs Iowa State (Seed 9) -> Auburn (Seed 8)
-St. Mary's (Seed 5) vs VCU (Seed 12) -> St. Mary's (Seed 5)
-Kansas State (Seed 4) vs Furman (Seed 13) -> Kansas State (Seed 4)
-Mississippi (Seed 6) vs Mississippi State (Seed 11) -> Mississippi (Seed 6)
-Texas (Seed 3) vs Colgate (Seed 14) -> Texas (Seed 3)
-Seton Hall (Seed 7) vs Utah State (Seed 10) -> Utah State (Seed 10)
-Virginia Tech (Seed 2) vs Northern Kentucky (Seed 15) -> Virginia Tech (Seed 2)
+                         First Four                         
+------------------------------------------------------------
+Game 1: Howard (Seed 16) vs Texas Southern (Seed 16) -> Howard (Seed 16)
+Game 2: Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Grambling State (Seed 16)
+Game 3: Virginia (Seed 11) vs Providence (Seed 11) -> Providence (Seed 11)
+Game 4: Mississippi State (Seed 11) vs USC (Seed 11) -> Mississippi State (Seed 11)
+------------------------------------------------------------
 
-=== Second Round ===
-Purdue (Seed 1) vs Memphis (Seed 9) -> Purdue (Seed 1)
-Indiana (Seed 5) vs Connecticut (Seed 4) -> Connecticut (Seed 4)
-NC State (Seed 11) vs Tennessee (Seed 3) -> Tennessee (Seed 3)
-Kentucky (Seed 7) vs Arizona (Seed 2) -> Arizona (Seed 2)
-Kansas (Seed 1) vs Missouri (Seed 9) -> Kansas (Seed 1)
-San Diego State (Seed 5) vs Duke (Seed 4) -> Duke (Seed 4)
-Texas A&M (Seed 6) vs Creighton (Seed 3) -> Creighton (Seed 3)
-Illinois (Seed 7) vs Baylor (Seed 2) -> Illinois (Seed 7)
-Alabama (Seed 1) vs Arkansas (Seed 8) -> Alabama (Seed 1)
-Xavier (Seed 5) vs Marquette (Seed 4) -> Marquette (Seed 4)
-TCU (Seed 6) vs Gonzaga (Seed 3) -> Gonzaga (Seed 3)
-Northwestern (Seed 7) vs UCLA (Seed 2) -> UCLA (Seed 2)
-Houston (Seed 1) vs Auburn (Seed 8) -> Auburn (Seed 8)
-St. Mary's (Seed 5) vs Kansas State (Seed 4) -> Kansas State (Seed 4)
+                        First Round                         
+------------------------------------------------------------
+Game 1: Purdue (Seed 1) vs Howard (Seed 16) -> Purdue (Seed 1)
+Game 2: Iowa (Seed 8) vs Memphis (Seed 9) -> Memphis (Seed 9)
+Game 3: Indiana (Seed 5) vs Charleston (Seed 12) -> Indiana (Seed 5)
+Game 4: Connecticut (Seed 4) vs Vermont (Seed 13) -> Connecticut (Seed 4)
+Game 5: Miami (Seed 6) vs NC State (Seed 11) -> NC State (Seed 11)
+Game 6: Tennessee (Seed 3) vs UC Irvine (Seed 14) -> Tennessee (Seed 3)
+Game 7: Kentucky (Seed 7) vs Florida Atlantic (Seed 10) -> Kentucky (Seed 7)
+Game 8: Arizona (Seed 2) vs Drake (Seed 15) -> Arizona (Seed 2)
+Game 9: Kansas (Seed 1) vs Grambling State (Seed 16) -> Kansas (Seed 1)
+Game 10: Michigan State (Seed 8) vs Missouri (Seed 9) -> Missouri (Seed 9)
+Game 11: San Diego State (Seed 5) vs Oral Roberts (Seed 12) -> San Diego State (Seed 5)
+Game 12: Duke (Seed 4) vs Toledo (Seed 13) -> Duke (Seed 4)
+Game 13: Texas A&M (Seed 6) vs Providence (Seed 11) -> Texas A&M (Seed 6)
+Game 14: Creighton (Seed 3) vs UC Santa Barbara (Seed 14) -> Creighton (Seed 3)
+Game 15: Illinois (Seed 7) vs Boise State (Seed 10) -> Illinois (Seed 7)
+Game 16: Baylor (Seed 2) vs UC Davis (Seed 15) -> Baylor (Seed 2)
+Game 17: Alabama (Seed 1) vs Texas A&M Corpus Christi (Seed 16) -> Alabama (Seed 1)
+Game 18: Arkansas (Seed 8) vs West Virginia (Seed 9) -> Arkansas (Seed 8)
+Game 19: Xavier (Seed 5) vs Utah Valley (Seed 12) -> Xavier (Seed 5)
+Game 20: Marquette (Seed 4) vs Oberlin College (Seed 13) -> Marquette (Seed 4)
+Game 21: TCU (Seed 6) vs Arizona State (Seed 11) -> TCU (Seed 6)
+Game 22: Gonzaga (Seed 3) vs Grand Canyon (Seed 14) -> Gonzaga (Seed 3)
+Game 23: Northwestern (Seed 7) vs Alaska State (Seed 10) -> Northwestern (Seed 7)
+Game 24: UCLA (Seed 2) vs UNC Asheville (Seed 15) -> UCLA (Seed 2)
+Game 25: Houston (Seed 1) vs Kennesaw State (Seed 16) -> Houston (Seed 1)
+Game 26: Auburn (Seed 8) vs Iowa State (Seed 9) -> Auburn (Seed 8)
+Game 27: St. Mary's (Seed 5) vs VCU (Seed 12) -> St. Mary's (Seed 5)
+Game 28: Kansas State (Seed 4) vs Furman (Seed 13) -> Kansas State (Seed 4)
+Game 29: Mississippi (Seed 6) vs Mississippi State (Seed 11) -> Mississippi (Seed 6)
+Game 30: Texas (Seed 3) vs Colgate (Seed 14) -> Texas (Seed 3)
+Game 31: Seton Hall (Seed 7) vs Utah State (Seed 10) -> Utah State (Seed 10)
+Game 32: Virginia Tech (Seed 2) vs Northern Kentucky (Seed 15) -> Virginia Tech (Seed 2)
+------------------------------------------------------------
 
+                        Second Round                        
+------------------------------------------------------------
+Game 1: Purdue (Seed 1) vs Memphis (Seed 9) -> Purdue (Seed 1)
+Game 2: Indiana (Seed 5) vs Connecticut (Seed 4) -> Connecticut (Seed 4)
+Game 3: NC State (Seed 11) vs Tennessee (Seed 3) -> Tennessee (Seed 3)
+Game 4: Kentucky (Seed 7) vs Arizona (Seed 2) -> Arizona (Seed 2)
+Game 5: Kansas (Seed 1) vs Missouri (Seed 9) -> Missouri (Seed 9)
+Game 6: San Diego State (Seed 5) vs Duke (Seed 4) -> Duke (Seed 4)
+Game 7: Texas A&M (Seed 6) vs Creighton (Seed 3) -> Creighton (Seed 3)
+Game 8: Illinois (Seed 7) vs Baylor (Seed 2) -> Baylor (Seed 2)
+Game 9: Alabama (Seed 1) vs Arkansas (Seed 8) -> Alabama (Seed 1)
+Game 10: Xavier (Seed 5) vs Marquette (Seed 4) -> Marquette (Seed 4)
+Game 11: TCU (Seed 6) vs Gonzaga (Seed 3) -> Gonzaga (Seed 3)
+Game 12: Northwestern (Seed 7) vs UCLA (Seed 2) -> UCLA (Seed 2)
+Game 13: Houston (Seed 1) vs Auburn (Seed 8) -> Auburn (Seed 8)
+Game 14: St. Mary's (Seed 5) vs Kansas State (Seed 4) -> Kansas State (Seed 4)
+Game 15: Mississippi (Seed 6) vs Texas (Seed 3) -> Mississippi (Seed 6)
+Game 16: Utah State (Seed 10) vs Virginia Tech (Seed 2) -> Virginia Tech (Seed 2)
+------------------------------------------------------------
+
+                       Sweet Sixteen                        
+------------------------------------------------------------
+Game 1: Purdue (Seed 1) vs Connecticut (Seed 4) -> Purdue (Seed 1)
+Game 2: Tennessee (Seed 3) vs Arizona (Seed 2) -> Tennessee (Seed 3)
+Game 3: Missouri (Seed 9) vs Duke (Seed 4) -> Duke (Seed 4)
+Game 4: Creighton (Seed 3) vs Baylor (Seed 2) -> Baylor (Seed 2)
+Game 5: Alabama (Seed 1) vs Marquette (Seed 4) -> Alabama (Seed 1)
+Game 6: Gonzaga (Seed 3) vs UCLA (Seed 2) -> Gonzaga (Seed 3)
+Game 7: Auburn (Seed 8) vs Kansas State (Seed 4) -> Auburn (Seed 8)
+Game 8: Mississippi (Seed 6) vs Virginia Tech (Seed 2) -> Virginia Tech (Seed 2)
+------------------------------------------------------------
+
+                        Elite Eight                         
+------------------------------------------------------------
+Game 1: Purdue (Seed 1) vs Tennessee (Seed 3) -> Purdue (Seed 1)
+Game 2: Duke (Seed 4) vs Baylor (Seed 2) -> Duke (Seed 4)
+Game 3: Alabama (Seed 1) vs Gonzaga (Seed 3) -> Alabama (Seed 1)
+Game 4: Auburn (Seed 8) vs Virginia Tech (Seed 2) -> Virginia Tech (Seed 2)
+------------------------------------------------------------
+
+                         Final Four                         
+------------------------------------------------------------
+Game 1: Purdue (Seed 1) vs Duke (Seed 4) -> Duke (Seed 4)
+Game 2: Alabama (Seed 1) vs Virginia Tech (Seed 2) -> Alabama (Seed 1)
+------------------------------------------------------------
+
+                        Championship                        
+------------------------------------------------------------
+Game 1: Duke (Seed 4) vs Alabama (Seed 1) -> Alabama (Seed 1)
+------------------------------------------------------------
+
+============================================================
+                          CHAMPION                          
+============================================================
+                        Alabama (Seed 1)                         
+============================================================
