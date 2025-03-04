@@ -15,28 +15,26 @@ def initialize_llm():
     return llm
 
 def create_prompt_template():
-    # Create a prompt template
-    prompt_template = PromptTemplate(
-        input_variables=["team1", "team2", "context"],
-        template="""You are an expert NCAA basketball analyst creating precise bracket predictions for March Madness.
+    """
+    Creates a prompt template for team matchup predictions.
+    """
+    template = """You are a college basketball expert analyzing March Madness matchups.
 
-Task: Predict the winner of a game between {team1} and {team2} based on the stats provided.
+Below are details for two teams in an upcoming game:
 
-Important stats for both teams:
+Team 1: {team1}
+Team 2: {team2}
+
+Additional Context:
 {context}
 
-Instructions:
-1. Always evaluate based on the provided stats, even if they seem limited
-2. Consider team records, ratings, and matchup dynamics
-3. NEVER refuse to make a prediction or apologize for lack of information
-4. NEVER explain your reasoning or include any text beyond the required format
+Based on the information provided, predict which team will win this matchup.
 
-REQUIRED OUTPUT FORMAT: 
-[Winning Team Name], [Winning Team Score]-[Losing Team Score]
+IMPORTANT: 
+1. Respond ONLY with the EXACT name of the winning team as provided above (either "{team1}" or "{team2}").
+2. Do not include scores, explanations, or variations of the team name.
+3. Simply output only the winning team's name exactly as shown above.
 
-Example good response: Duke, 78-72
-Example bad response: I predict Duke will win with a score of 78-72 over UNC
+Your prediction:"""
 
-YOUR PREDICTION:"""
-    )
-    return prompt_template 
+    return template 

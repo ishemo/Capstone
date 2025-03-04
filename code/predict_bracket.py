@@ -59,6 +59,9 @@ def run_game(team1, seed1, team2, seed2, round_name, llm, vector_db):
     else:
         # If the model doesn't clearly indicate a winner, default to the higher seed (lower number)
         print(f"Warning: Couldn't determine winner from response. Defaulting to higher seed.")
+        print("-------------")
+        print(response)
+        print("-------------")
         if int(seed1) < int(seed2):
             winner, winner_seed = team1, seed1
         else:
