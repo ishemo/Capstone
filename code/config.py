@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 import os
-from langchain_community.llms import OpenAI
+from langchain_openai import OpenAI
 from langchain.prompts import PromptTemplate
 
 def initialize_llm():
