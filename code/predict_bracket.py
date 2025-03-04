@@ -5,7 +5,7 @@ import display_bracket
 from config import initialize_llm, create_prompt_template
 import os
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import TextLoader
 from langchain_openai import OpenAI
@@ -24,14 +24,14 @@ def run_game(team1, seed1, team2, seed2, round_name, llm, context):
     prompt = create_prompt_template().format(team1=formatted_team1, team2=formatted_team2, context=context)
     
     # Invoke the model to get the prediction
-    response = llm.invoke(prompt)
+    response = llm.invoke(prompt).content
     
     # Print the matchup and prediction for visibility
     print(f"[{round_name}] {formatted_team1} vs {formatted_team2} -> {response.strip()}")
     
     # Prepare a result string for later reference
     result_text = f"{formatted_team1} vs {formatted_team2} -> {response.strip()}"
-    return result_text
+    return response.strip()
 
 def simulate_bracket(file_path, llm):
     """

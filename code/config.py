@@ -1,6 +1,6 @@
+from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
-from langchain_community.llms import OpenAI
 from langchain.prompts import PromptTemplate
 
 def initialize_llm():
@@ -11,7 +11,7 @@ def initialize_llm():
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
     
     # Initialize the OpenAI model
-    llm = OpenAI(temperature=0.7, api_key=OPENAI_API_KEY)
+    llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.7, api_key=OPENAI_API_KEY)
     return llm
 
 def create_prompt_template():
