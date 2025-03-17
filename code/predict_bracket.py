@@ -35,7 +35,7 @@ def run_game(team1, seed1, team2, seed2, round_name, llm, vector_db):
             context += f"Team 2 Info:\n{team2_context[0].page_content}"
         except:
             print(f"Couldn't find context for {team2}")
-    
+
     # Create the prompt with seed info
     prompt = create_prompt_template().format(team1=formatted_team1, team2=formatted_team2, context=context)
     
@@ -78,10 +78,10 @@ def simulate_bracket(file_path, llm):
     
     # Set up vector db for context
     try:
-        file_path_data = "data/final_data/current_team_data.txt"
+        file_path_data = "data/final_data/data.txt"
         loader = TextLoader(file_path_data)
         docs = loader.load()
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=150)
         chunks = text_splitter.split_documents(docs)
         embeddings = OpenAIEmbeddings()
         vector_db = FAISS.from_documents(chunks, embeddings)
