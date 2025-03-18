@@ -1,4 +1,4 @@
-Houston (Seed 1) vs Auburn (Seed 1) -> Auburn (Seed 1)
-Missouri (Seed 6) vs St. John's (Seed 2) -> St. John's (Seed 2)
-Alabama Crimson Tide (Seed 2) vs Duke (Seed 1) -> Duke (Seed 1)
-Florida (Seed 1) vs Michigan State Spartans (Seed 2) -> Florida (Seed 1)
+Auburn (Seed 1) vs Michigan State Spartans (Seed 2) -> Auburn (Seed 1)
+Florida (Seed 1) vs St. John's (Seed 2) -> Florida (Seed 1)
+Duke (Seed 1) vs Alabama Crimson Tide (Seed 2) -> Duke (Seed 1)
+Houston (Seed 1) vs Tennessee (Seed 2) -> Houston (Seed 1)
