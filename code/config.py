@@ -29,12 +29,19 @@ def create_prompt_template():
     Additional Context for the two teams playing:
     {context}
 
-    Based on the information provided, predict which team will win this matchup.
+    
+    Remember that upsets are a defining feature of the NCAA tournament. Lower-seeded teams often rise 
+    to the occasion, knocking off higher-ranked and statistically better opponents. The average number of those upsets 
+    (the winning team being at least five seeds worse) is about eight per year. There have never been more than 14, 
+    and there have never been fewer than three.
 
+    Based on the information provided, predict which team will win this matchup.
     IMPORTANT: 
     1. Respond ONLY with the EXACT name of the winning team as provided above (either "{team1}" or "{team2}").
     2. Do not include scores, explanations, or variations of the team name.
     3. Simply output only the winning team's name exactly as shown above.
+    4. You have to predict some upsets, but be very careful in picking which games are upsets. You should have a reason for why it
+    will be an upset.
 
     Your prediction:"""
 

@@ -1,4 +1,4 @@
-Howard (Seed 16) vs Texas Southern (Seed 16) -> Howard (Seed 16)
-Grambling State (Seed 16) vs Fairleigh Dickinson (Seed 16) -> Fairleigh Dickinson (Seed 16)
-Virginia (Seed 11) vs Providence (Seed 11) -> Virginia (Seed 11)
-Mississippi State (Seed 11) vs USC (Seed 11) -> Mississippi State (Seed 11)
+Alabama State Hornets (Seed 16) vs Saint Francis (Seed 16) -> Saint Francis (Seed 16)
+San Diego State Aztecs (Seed 11) vs North Carolina (Seed 11) -> North Carolina (Seed 11)
+American University (Seed 16) vs Mount St. Mary's (Seed 16) -> Mount St. Mary's (Seed 16)
+Texas Longhorns (Seed 11) vs Xavier (Seed 11) -> Texas Longhorns (Seed 11)

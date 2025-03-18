@@ -37,7 +37,7 @@ def run_game(team1, seed1, team2, seed2, round_name, llm, vector_db):
             print(f"Couldn't find context for {team2}")
 
     # Create the prompt with seed info
-    prompt = create_prompt_template().format(team1=formatted_team1, team2=formatted_team2, context=context)
+    prompt = create_prompt_template().format(team1=team1, team2=team2, context=context)
     
     # Invoke the model to get the prediction
     response = llm.invoke(prompt)
@@ -189,5 +189,5 @@ def simulate_bracket(file_path, llm):
 
 def predict_bracket():
     llm = initialize_llm()
-    simulate_bracket("code/testbracket.txt", llm)
+    simulate_bracket("code/bracket.txt", llm)
     display_bracket.display_bracket()

@@ -1,2 +1,2 @@
-Purdue (Seed 1) vs Duke (Seed 4) -> Duke (Seed 4)
-Alabama (Seed 1) vs St. Mary's (Seed 5) -> Alabama (Seed 1)
+Auburn (Seed 1) vs St. John's (Seed 2) -> St. John's (Seed 2)
+Duke (Seed 1) vs Florida (Seed 1) -> Duke (Seed 1)
