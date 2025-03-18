@@ -1,40 +1,40 @@
 Round,Team1,Seed1,Team2,Seed2
-First Four,Team61,16,Team62,16
-First Four,Team63,16,Team64,16
-First Four,Team65,11,Team66,11
-First Four,Team67,11,Team68,11
-First Round,Team1,1,Team2,16
-First Round,Team3,8,Team4,9
-First Round,Team5,5,Team6,12
-First Round,Team7,4,Team8,13
-First Round,Team9,6,Team10,11
-First Round,Team11,3,Team12,14
-First Round,Team13,7,Team14,10
-First Round,Team15,2,Team16,15
-First Round,Team17,1,Team18,16
-First Round,Team19,8,Team20,9
-First Round,Team21,5,Team22,12
-First Round,Team23,4,Team24,13
-First Round,Team25,6,Team26,11
-First Round,Team27,3,Team28,14
-First Round,Team29,7,Team30,10
-First Round,Team31,2,Team32,15
-First Round,Team33,1,Team34,16
-First Round,Team35,8,Team36,9
-First Round,Team37,5,Team38,12
-First Round,Team39,4,Team40,13
-First Round,Team41,6,Team42,11
-First Round,Team43,3,Team44,14
-First Round,Team45,7,Team46,10
-First Round,Team47,2,Team48,15
-First Round,Team49,1,Team50,16
-First Round,Team51,8,Team52,9
-First Round,Team53,5,Team54,12
-First Round,Team55,4,Team56,13
-First Round,Team57,6,Winner of First Four Game 1,11
-First Round,Team58,3,Winner of First Four Game 2,14
-First Round,Team59,7,Winner of First Four Game 3,10
-First Round,Team60,2,Winner of First Four Game 4,15
+First Four,Alabama State,16,Saint Francis,16
+First Four,San Diego State,11,North Carolina,11
+First Four,American University,16,Mount St. Mary's,16
+First Four,Texas,11,Xavier,11
+First Round,Louisville,8,Creighton,9
+First Round,Purdue,4,High Point,13
+First Round,Wisconsin,3,Montana,14
+First Round,Houston,1,SIU Edwardsville,16
+First Round,Auburn,1,Winner of First Four Game 1,16
+First Round,Clemson,5,McNeese,12
+First Round,BYU,6,VCU,11
+First Round,Gonzaga,8,Georgia,9
+First Round,Tennessee,2,Wofford,15
+First Round,Kansas,7,Arkansas,10
+First Round,Texas A&M,4,Yale,13
+First Round,Missouri,6,Drake,11
+First Round,UCLA,7,Utah State,10
+First Round,St. John's,2,Omaha,15
+First Round,Michigan,5,UC San Diego,12
+First Round,Texas Tech,3,UNC Wilmington,14
+First Round,Mississippi State,8,Baylor,9
+First Round,Alabama,2,Robert Morris,15
+First Round,Iowa State,3,Lipscomb,14
+First Round,Memphis,5,Colorado State,12
+First Round,Duke,1,Winner of First Four Game 3,16
+First Round,Saint Mary's,7,Vanderbilt,10
+First Round,Ole Miss,6,Winner of First Four Game 2,11
+First Round,Maryland,4,Grand Canyon,13
+First Round,Florida,1,Norfolk State,16
+First Round,Kentucky,3,Troy,14
+First Round,Marquette,7,New Mexico,10
+First Round,Arizona,4,Akron,13
+First Round,UConn,8,Oklahoma,9
+First Round,Illinois,6,Winner of First Four Game 4,11
+First Round,Michigan State,2,Bryant,15
+First Round,Oregon,5,Liberty,12
 Second Round,Winner of First Round Game 1,1,Winner of First Round Game 2,16
 Second Round,Winner of First Round Game 3,8,Winner of First Round Game 4,9
 Second Round,Winner of First Round Game 5,5,Winner of First Round Game 6,12
